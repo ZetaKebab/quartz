@@ -1,3 +1,152 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+.text-highlight {
+    background-color: #ddcee5;
+}
+
+:root[saved-theme="dark"] .text-highlight {
+    background-color: #7d4e95;
+}
+
+.callout {
+    border: 3px solid #7d4e95;
+    background-color:initial;
+    border-radius: 1rem;
+}
+
+.callout-title {
+    --color: #7d4e95;
+}
+
+:root[saved-theme="dark"] .callout {
+    border: 3px solid #a672c0;
+}
+
+:root[saved-theme="dark"] .callout-title {
+    --color: #a672c0;
+}
+
+.callout.note {
+    
+    & table {
+        margin: 0;
+        margin-bottom: 0.5rem;
+
+        & thead {
+            display: none;
+        }
+
+        & td {
+            padding: 0;
+        }
+    }
+}
+
+ul.overflow, ol.overflow {
+    max-height: 75dvh;
+}
+
+ul.overflow::after, ol.overflow::after {
+    position:initial;
+}
+
+#toc-content {
+    & ul {
+      & > li > a {
+        opacity: 0.75;
+      }
+    }
+}
+
+.page {
+    & > #quartz-body {
+
+        & .center {
+            & p {
+                font-size: 1.15rem;
+            }
+            
+            & h3 {
+                font-size: 1.5rem;
+            }
+            
+            & h2 {
+                font-size: 1.7rem;
+            }
+            
+            & h1 {
+                font-size: 2rem;
+            }
+        }
+
+        & .sidebar {
+            @media all and (max-width: $fullPageWidth) {
+                margin-top: 1rem;
+            }
+       }
+
+        & .right.sidebar {
+        @media all and (max-width: $fullPageWidth) {
+            margin-top: 0;
+        }
+        }
+    }
+}
+
+hr {
+    margin: 1rem auto;
+}
+
+footer {
+    margin-bottom: 2rem;
+
+    & p {
+        font-size: 1rem;
+    }
+
+    @media all and (max-width: $fullPageWidth) {
+        margin-bottom: 1rem;
+    }
+}
+
+
+
+// Usage
+
+.usage {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+}
+
+.usage .left {
+    padding-right: 1.7rem;
+
+    background-image: linear-gradient(var(--darkgray), var(--darkgray)), linear-gradient(var(--darkgray), var(--darkgray));
+    background-repeat: no-repeat;
+    background-size: 8px 2px;
+    background-position: top right, bottom right;
+
+    border-right: solid var(--darkgray);
+    border-width: 0 2px;
+}
+
+.usage .left .box {
+    border: 1px solid var(--darkgray);
+    border-radius: 0.5rem;
+    padding: 0.2rem 0.3rem 0.2rem 0.3rem;
+    display: inline-block;
+    width: fit-content;
+    margin: 0.2rem;
+}
+
+.usage .left p {
+    margin:0;
+}
+
+.usage .right {
+    padding-left: 1rem;
+}
