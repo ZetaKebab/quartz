@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  quartz:
+    image: quartz-jpg
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      NODE_ENV: production
+    container_name: quartz
+    restart: always
+    ports:
+      - 8080:8080
