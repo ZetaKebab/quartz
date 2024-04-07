@@ -29,7 +29,9 @@ def write_file(filename, text):
 ### Replace ###
 
 def convert_pattern(text):
-    text = re.sub(re_usage, '', text, flags=re.MULTILINE)
+    text, success = re.subn(re_usage, '', text, flags=re.MULTILINE)
+    if (success == 0):
+        return text
 
     soup = BeautifulSoup(text, features="html.parser")
 
@@ -40,7 +42,7 @@ def convert_pattern(text):
         calloutTitle = BeautifulSoup(callout_title_html, features="html.parser")
         tag.insert_before(calloutTitle)
 
-    return str(soup)
+    return (soup.decode(False, formatter=None))
 
 
 ### Execution ###
