@@ -9,3 +9,9 @@ For my Japanese Grammar (JPG) project, I have created a style for explanation on
 ## convert-usage.py
 
 In my Quartz rendering of my markdown data, I want this kind of data to be in a callout. However, it is not possible to combine HTML and Markdown in Obsidian. For that purpose, this script encapsulates it directly in HTML. To make it both compatible in Obsidian and Quartz, and to be still easy to write, it's done with this python script. This is probably super specific and will not be of use for anybody except me!
+
+## Usage
+
+Usage: `python3 convert-usage.py [root folder]`
+
+Note: Please be careful, this software applies modifications recursively!
