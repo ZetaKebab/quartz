@@ -27,8 +27,23 @@
     --color: #a672c0;
 }
 
+table {
+    border: 2px solid var(--gray);
+
+    & thead > tr {
+        border-bottom: 2px solid var(--lightgray);
+
+        & th {
+            border: 1px solid var(--lightgray);
+        }
+    }
+
+    & td {
+        border: 1px solid var(--lightgray);
+    }
+}
+
 .callout.note {
-    
     & table {
         margin: 0;
         margin-bottom: 0.5rem;
@@ -65,8 +80,14 @@ ul.overflow::after, ol.overflow::after {
         & .center {
             & p {
                 font-size: 1.15rem;
+                white-space: break-spaces;
+                hyphens: none;
             }
             
+            & li {
+                font-size: 1.15rem;
+            }
+
             & h3 {
                 font-size: 1.5rem;
             }
