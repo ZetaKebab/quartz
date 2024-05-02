@@ -1,4 +1,14 @@
-.box {
+.usage {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.usage p {
+    margin:0;
+}
+
+.usage .box {
     border: 1px solid black;
     border-radius: 0.5rem;
     padding: 0.2rem 0.3rem 0.2rem 0.3rem;
@@ -7,13 +17,7 @@
     margin: 0.2rem;
 }
 
-.usage {
-    display:flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.left {
+.usage .left {
     padding-right: 1.7rem;
 
     background-image: linear-gradient(black, black), linear-gradient(black, black);
@@ -25,10 +29,6 @@
     border-width: 0 2px;
 }
 
-.left p {
-    margin:0;
-}
-
-.right {
+.usage .right {
     padding-left: 1rem;
 }

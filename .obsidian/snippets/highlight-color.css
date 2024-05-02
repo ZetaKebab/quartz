@@ -1,0 +1,3 @@
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
+    --text-highlight-bg: #e6cee7;
+}
