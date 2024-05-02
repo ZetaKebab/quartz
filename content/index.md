@@ -1,4 +1,4 @@
-# Japanese Grammar (JPG)
+# Japanese Grammar
 
 Welcome to my Japanese Grammar project!
 
