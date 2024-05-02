@@ -32,7 +32,7 @@ Means "whether or not". A form a bit strange, where the verb is repeated two tim
 > 食べ==ても==食べ==なくても==、{構|かま}いません。
 > It doesn't matter whether you eat it orb not.
 
-### ても{構|かま}わない
+### ても構わない・てもかまわない
 
 Means that it doesn't matter or that the speaker doesn't mind.
 
@@ -40,7 +40,7 @@ Means that it doesn't matter or that the speaker doesn't mind.
 > 雨が{降|ふ}==っても構わない==。
 > I don't mind if it rains.
 
-### ても{始|はじ}まらない
+### ても始まらない・てもはじまらない
 
 Means that even if you do it, it will never start: that it's no use.
 Only for **verbs**.

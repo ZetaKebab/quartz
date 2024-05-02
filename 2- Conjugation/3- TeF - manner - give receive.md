@@ -1,4 +1,4 @@
-# 3- Te-Form - manner of doing - give and receive
+# 3- Te-Form - manner of doing - give & receive
 
 ## Manner of doing
 
@@ -102,8 +102,8 @@ This form expresses gratitude for a favor that the recipient generally requested
 Only for **verbs**.
 
 > [!info] Example
-{友達|とも|だち}が手伝==ってもらった==。
-My friend helped me (and I owe him / because I asked him and I am grateful)
+> {友達|とも|だち}が手伝==ってもらった==。
+> My friend helped me (and I owe him / because I asked him and I am grateful)
 
 ### てくれない・てもらえない
 
