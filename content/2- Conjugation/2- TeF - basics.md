@@ -100,7 +100,7 @@ Used to list a sequence of events that happen one after another. Must be used fo
 The particle can also contrast things that have some sort of relationship. It can mean something like "and" or "while", but is not really similar to "but": it always has the same weight in the sentence, as opposed to expressions like けど・のに, etc.
 
 > [!info] Examples
-> 朝は雨が{降|ふ}==って=={夕方|ゆう|がた}は{晴|は}れた。   
+> 朝は雨が{降|ふ}==って=={夕方|ゆう|がた}は{晴|は}れた。
 > It rained this morning, **and** then it cleared up in the afternoon. (there is no particular emphasis on either event).
 >
 > 朝は雨が降った==けど==夕方は晴れた。
@@ -190,8 +190,8 @@ Only for **verbs**.
 ていた can be shortened to てた, and ていました to てました.
 
 > [!info] Example
-{勉強|べんきょう}をし==ていた==けど、今は{休|やす}んでいる。
-I was studying but am taking a break right now.
+> {勉強|べんきょう}をし==ていた==けど、今は{休|やす}んでいる。
+> I was studying but am taking a break right now.
 
 ### てある
 
