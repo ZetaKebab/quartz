@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "usage",
+    "spacing"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "showViewHeader": true
+}
