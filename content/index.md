@@ -18,6 +18,9 @@ Of course, since I'm _learning_ the language, I need to borrow what I write from
 * [Wasabi](https://www.wasabi-jpn.com/category/japanese-grammar/)
 * [Japanese StackExchange](https://japanese.stackexchange.com/)
 * [Guide du Japonais](https://guidedujaponais.fr/)
+* [Tofugu](https://www.tofugu.com)
+* [Imabi](https://imabi.org/table-of-contents-%e7%9b%ae%e6%ac%a1/)
+* [Tae-Kim's Guide](https://guidetojapanese.org/learn/)
 
 ## Other useful resources
 
@@ -37,11 +40,12 @@ In addition to those I cited, here are other resources I find useful.
 ### Grammar
 
 * [jtest4you](https://japanesetest4you.com/)
-* [Japanese Conjugation Drill](https://drill.marchal.dev)
+* [Japanese Conjugation Drill](https://drill.jp.marchal.dev)
 
 ### Vocabulary
 
 * [Jisho](https://jisho.org/), an online dictionary
+* [Tangorin](https://tangorin.com/sentences), for its sentences database
 
 ## Any errors?
 
