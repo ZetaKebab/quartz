@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "[JPG]",
+    pageTitle: "Japanese",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -66,7 +66,9 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true, enableYouTubeEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({
+        maxDepth: 4,
+      }),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
     ],

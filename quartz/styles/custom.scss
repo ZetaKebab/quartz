@@ -88,6 +88,10 @@ ul.overflow::after, ol.overflow::after {
                 font-size: 1.15rem;
             }
 
+            & h4 {
+                font-size: 1.3rem;
+            }
+
             & h3 {
                 font-size: 1.5rem;
             }
@@ -143,7 +147,7 @@ footer {
     margin-top: 0.5rem;
 }
 
-.usage .p {
+.usage p {
     margin:0;
 }
 
@@ -170,4 +174,9 @@ footer {
 
 .usage .right {
     padding-left: 1rem;
+}
+
+.usage .r {
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
 }
