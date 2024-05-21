@@ -64,10 +64,10 @@ Means surely, almost certainly. Express an expectation.
 
 ## 必ず
 
-Means certainly, definitely. Expresses an obligation.
+{必|かなら}ず means certainly, definitely. Expresses an obligation.
 
 > [!info] Example
-> 明日の{授業|じゅ|ぎょう}=={必|かなら}ず==来てください。
+> 明日の{授業|じゅ|ぎょう}==必ず==来てください。
 > Please be sure to attend tomorrow's class.
 
 ## ことができる

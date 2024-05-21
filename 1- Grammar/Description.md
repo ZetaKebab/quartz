@@ -11,7 +11,7 @@ Means "named", "called".
 > Do you know the insect named cockroach?
 > 
 > スペイン語で、ゴキブリは「クカラチャ」==といいます==。
-> In Spanish, cockroaches are called cucaracha.
+> In Spanish, cockroaches are called "cucaracha".
 > 
 > {台風|たいふう}が来る==という==ニュース。
 > A news that a typhoon is coming.
@@ -59,7 +59,7 @@ This means to experience a sense (except visual): to smell, to hear, to taste, e
 > いい{匂|にお}い==がする==。
 > It smells good.
 > 
-> 今日は{最悪|さいあく}日=={気|き}がする==。
+> 今日は{最悪|さいあく}日{気|き}==がする==。
 > I feel like today is the worst.
 
 ## から作る・で作る
@@ -70,19 +70,19 @@ Means "made from".
 > チーズは{牛乳|ぎゅうにゅう}==から作る==。
 > Cheese is made from milk.
 
-## のが{好き・上手・下手}
+## のが「好き・上手・下手」
 
-Means "to {like/be good/be bad}" at an action.
+のが({好|すき}き・{上手|じょうず}・{下手|へた}) means "to (like/be good/be bad)" at an action.
 Used with a verb in dictionary form.
 
 > [!info] Example
-> テレビでサッカーを見る==のが{好|す}き==です。
+> テレビでサッカーを見る==のが好き==です。
 > I like watching soccer on the television.
 >
-> 彼女は料理を作る==のが{上手|じょうず}==と思います。
+> 彼女は料理を作る==のが上手==と思います。
 > I think she is a good cook.
 >
-> {絵|え}を{塗|ぬる}る==のが{下手|へた}==です。
+> {絵|え}を{塗|ぬる}る==のが下手==です。
 > I'm not good at painting.
 
 ## くらい・ぐらい

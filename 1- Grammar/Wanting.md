@@ -37,7 +37,7 @@ This form is used when someone wants something. Can be used for yourself.
 Used with a noun.
 
 > [!info] Examples
-> どんなゲーム==が{欲|ほ}しい==ですか。
+> どんなゲーム==が欲しい==ですか。
 > What game would you like to have?
 >
 > 新しいRPG==がほしい==。

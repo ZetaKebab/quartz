@@ -24,7 +24,7 @@ In casual speech, can be shortened to て.
 Means "is it alright if?", "may I?".
 
 > [!info] Example
-> ここに{座|すわ}て==もいい==ですか。
+> ここに{座|すわ}==てもいい==ですか。
 > May I sit here?
 
 ## ないでください

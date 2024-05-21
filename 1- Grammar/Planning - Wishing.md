@@ -2,11 +2,11 @@
 
 ## ようと思う
 
-Means "thinking of doing".
+ようと{思|おも}う means "thinking of doing".
 Used with a verb in the volitional form (よう).
 
 > [!info] Example
-> レストランへ行こ==うと{思|おも}います==。
+> レストランへ行こ==うと思います==。
 > I'm thinking of going to the restaurant.
 
 ## つもり
@@ -31,5 +31,5 @@ It means "plan to".
 This form is stronger than つもり. For a same sentence, the nuance could be a strong intention for つもり, while with よてい the plan has already been booked.
 
 > [!info] Example
-> 来年日本へ行く=={予定|よてい}==です。
+> 来年日本へ行く==予定==です。
 > I'm planning to go to Japan next year (I have my tickets).

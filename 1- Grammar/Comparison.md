@@ -40,10 +40,10 @@ With the following pattern, it means that B is more than A:
 </div>
 </div>
 
-より indicates the lesser thing, and ほうが the greater thing.
+より indicates the lesser thing, and {方|ほう}が the greater thing.
 
 > [!info] Example
-> 昨日==より==今日の=={方|ほう}が==寒いです。
+> 昨日==より==今日の==ほうが==寒いです。
 > Today is colder than yesterday.
 
 ## ほうがいい

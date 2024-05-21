@@ -102,8 +102,8 @@ Means "if" or "when". Describes a condition (the first action must be completed 
 	<p class="right">+ 場合は</p>
 </div>
 
-Means "in the case of". The second part explains what to do in the situation (instructions, advices, etc). More formal than たら.
+{場合|ば|あい} means "in the case of". The second part explains what to do in the situation (instructions, advices, etc). More formal than たら.
 
 > [!info] Example
-> {地震|じ|しん}==の{場合|ば|あい}は==、エレベーターを使わないでください。
+> {地震|じ|しん}==の場合は==、エレベーターを使わないでください。
 > In case of an earthquake, please don't use the elevators.

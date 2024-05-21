@@ -35,7 +35,7 @@ Used when someone gives an object to you.
 ### もらう
 
 <div class="usage">
-	<p class="r">Receiver が Giver {に・から} Object を + </p>
+	<p class="r">Receiver が Giver 「に・から」 Object を + </p>
 <div class="">
 	<p><span class="box">もらう</span></p>
 </div>

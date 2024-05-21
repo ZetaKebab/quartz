@@ -71,10 +71,10 @@ Used with a verb.
 	<p class="right">+ に気がつく</p>
 </div>
 
-Means "to notice", "to realize".
+に{気|き}がつく means "to notice", "to realize".
 
 > [!info] Example
-> {新|あたら}しいレストランが{開店|かい|てん}==に{気|き}がついた==。
+> {新|あたら}しいレストランが{開店|かい|てん}==に気がついた==。
 > I noticed a new restaurant opened.
 
 ## と思う
@@ -89,10 +89,10 @@ Means "to notice", "to realize".
 	<p class="right">+ と思う</p>
 </div>
 
-Means "to think".
+と{思|おも}う means "to think".
 
 > [!info] Example
-> {変|へん}だ==と{思|おも}わない==か。
+> {変|へん}だ==と思わない==か。
 > Don't you think it's strange?
 > 
 > 今日は{公園|こう|えん}に行く==と思います==。

@@ -61,10 +61,10 @@ Means "while", "simultaneously".
 	<p class="right">+ 間</p>
 </div>
 
-Means "while" or "during". Used to express something that is done for the whole period of time.
+{間|あいだ} means "while" or "during". Used to express something that is done for the whole period of time.
 
 > [!info] Example
-> 電車に{乗|の}っている=={間|あいだ}==、ゲームをしてた。
+> 電車に{乗|の}っている==間==、ゲームをしてた。
 > While I was on the train, I was playing a game.
 
 Can also be used to talk about a distance between two physical places or the time between two things.
@@ -114,10 +114,10 @@ See から～まで: [[🔰 Particles (2)#から～まで]].
 	<p class="right">+ 前に</p>
 </div>
 
-Means before (time) or in front of (place).
+{前|まえ}に means before (time) or in front of (place).
 
 > [!info] Examples
-> {寝|ねる}る=={前|まえ}に==、レストランに行こうと思います。
+> {寝|ねる}る==前に==、レストランに行こうと思います。
 > I think I'll go to the restaurant before sleeping.
 > 
 > レストランの==前に=={自転車|じ|てん|しゃ}があります。
@@ -133,11 +133,11 @@ Means before (time) or in front of (place).
 	<p class="right">+ 後で</p>
 </div>
 
-Means after or later.
+{後|あと}で means after or later.
 ⚠ Only works with the past form of verbs!
 
 > [!info] Example
-> 食べた=={後|あと}で==、寝ます。
+> 食べた==後で==、寝ます。
 > After eating, I'll go to sleep.
 
 ## さっき
@@ -172,10 +172,10 @@ When comparing the two examples, the meaning is different depending on the conte
 
 ## 急に
 
-Means that something happened unexpectedly or quickly.
+{急|きゅう}に means that something happened unexpectedly or quickly.
 
 > [!info] Example
-> =={急|きゅう}に==電車が{現|あらわ}れた。
+> ==急に==電車が{現|あらわ}れた。
 > A train suddenly appeared.
 
 ## やっと
@@ -231,4 +231,3 @@ Means "when".
 > [!info] Example
 > 子供の==ころ==、毎日{公園|こうえん}で{遊|あそ}んだ。
 > When I was a kid, I played every day at the park.
-

@@ -34,15 +34,15 @@ While にくい is the broader form, づらい is used in a more subjective mann
 
 ## ~始める
 
-Means that something starts or has started. Expresses intentionality.
+～{始|はじ}める means that something starts or has started. Expresses intentionality.
 
 > [!info] Example
-> {飲|の}み=={始|はじ}まる==。
+> {飲|の}み==始める==。
 > To start to drink.
 
 ## ~出す
 
-Means that something suddenly started. Has the nuance of being unintentional, or cannot be avoided.
+～{出|だ}す means that something suddenly started. Has the nuance of being unintentional, or cannot be avoided.
 
 > [!info] Example
 > 雨が降り==出した==。
@@ -50,16 +50,16 @@ Means that something suddenly started. Has the nuance of being unintentional, or
 
 ## ~続く
 
-Means that something continues.
+～{続|つづ}く means that something continues.
 
 > [!info] Example
-> {飲|の}み=={続|つづ}ける==。
+> {飲|の}み==続ける==。
 > To continue to drink.
 
 ## ~終わる
 
-Means that something ends.
+～{終|お}わる means that something ends.
 
 > [!info] Example
-> {飲|の}み=={終|お}わります==。
+> {飲|の}み==終わります==。
 > To stop to drink.
