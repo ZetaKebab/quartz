@@ -14,7 +14,7 @@ This transforms adjective into verbs, and means "to show signs of", "to appear l
 Can be conjugated: がっている means to currently show signs, がていた means to have shown signs.
 
 > [!info] Example
-> {彼女|かのじょ}は虫を{怖|ごわ}がる。
+> {彼女|かのじょ}は虫を{怖|ごわ}==がる==。
 > She seems afraid of insects.
 
 ## がり
@@ -30,7 +30,7 @@ Can be conjugated: がっている means to currently show signs, がていた m
 Expresses a personality trait (tendency to, sensitivity towards).
 
 > [!info] Example
-> {彼|かれ}はを{怖|ごわ}がり。
+> {彼|かれ}はを{怖|ごわ}==がり==。
 > He has a tendency of being scared.
 
 ## Looks like
@@ -86,7 +86,7 @@ It is a less polite form of ようだ.
 The basic form, used with all forms of words.
 
 > [!info] Example
-> 今日は暑いですね。夏==みたい==だな。
+> 今日は暑いですね。夏==みたいだ==な。
 > It's hot today, isn't it. It looks like it's summer.
 
 #### みたいに
@@ -118,7 +118,7 @@ The adverbial form.
 Similar to the precedent form, but when using with nouns.
 
 > [!info] Example
-> {故郷|ふる|さと}==みたい==な町だ。
+> {故郷|ふる|さと}==みたいな==町だ。
 > A city like my hometown.
 
 ### っぽい
@@ -195,7 +195,7 @@ Means that it looks like.
 	<p><span class="box">い-Adj <strike>い</strike></span></p>
 	<p><span class="box">な-Adj + だ</span></p>
 </div>
-	<p class="right">+ そうに・そうな + N・V</p>
+	<p class="right">+ 「そうに・そうな」 + N・V</p>
 </div>
 
 Also means that it looks like, but connecting to nouns and verbs.

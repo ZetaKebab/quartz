@@ -23,12 +23,12 @@ Used with nouns and verbs.
 
 ## 又は
 
-または can be used for two things:
+{又|また}は can be used for two things:
 * choosing between two options ("or")
 * listing two options ("both")
 
 > [!info] Example
-> 日本語=={又|また}は==英語でしゃべれます。
+> 日本語==又は==英語でしゃべれます。
 > I can speak both Japanese and English.
 
 ## それでも

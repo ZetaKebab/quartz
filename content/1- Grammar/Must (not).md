@@ -27,7 +27,7 @@ This form is used with the negative form of a verb (ない), and adding なく�
 > {歯|は}を{磨|みが}か==なくちゃいけない==。
 > I must brush my teeth.
 
-### なくては{いけない・ならない}
+### なくては「いけない・ならない」
 
 Also formed with the negative form of a verb.
 
@@ -35,7 +35,7 @@ Also formed with the negative form of a verb.
 > 今{遅|おそ}いね。{寝|ね}に行か==なくてはいけない==。
 > It's late now. I have to go to sleep.
 
-### なければ{いけない・ならない}
+### なければ「いけない・ならない」
 
 Also formed with the negative form of a verb.
 
@@ -66,7 +66,7 @@ In casual contexts, can be shortened as ないと.
 
 ## Must not
 
-#### ちゃ・じゃ{だめ・いけない・いけません}
+#### 「ちゃ・じゃ」「だめ・いけない・いけません」
 
 Only used on casual spoken conversations. いけません is a bit more formal.
 This form is used with a V-て, depending on the ending:
