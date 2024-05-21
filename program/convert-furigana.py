@@ -7,7 +7,7 @@ import re
 
 # https://www.reddit.com/r/learnpython/comments/h0tsaa/regex_expression_for_japanese_extracting/
 re_brace = '{(.+?)}'
-re_kanji = '([㐀-䶵一-鿋豈-頻]+)'
+re_kanji = '([㐀-䶵一-鿋豈-頻々]+)'
 re_kana = '([ぁ-ゟ゠-ヿ]+)'
 
 ### Open file ###
