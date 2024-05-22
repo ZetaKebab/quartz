@@ -79,7 +79,7 @@ Means "glad that".
 ## ているところ
 
 Means "in the process/middle of doing". Can either talk about the exact moment or in general.
-See also [[1- Grammar/Time|Time#たところ]].
+See also [[🔰 Grammar/Time#たところ]].
 
 > [!info] Example
 > {現在|げんざい}、{求職|きゅうしょく}し==ているところ==です。

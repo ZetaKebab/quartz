@@ -1,4 +1,4 @@
-# 1- Basics
+# Basics
 
 ## う-verbs
 
