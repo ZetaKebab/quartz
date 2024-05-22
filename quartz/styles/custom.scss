@@ -87,21 +87,22 @@ ul.overflow::after, ol.overflow::after {
             & li {
                 font-size: 1.15rem;
             }
+            
+            & h1 {
+                font-size: 2rem;
+                margin-top: 1.25rem;
+            }
 
-            & h4 {
-                font-size: 1.3rem;
+            & h2 {
+                font-size: 1.7rem;
             }
 
             & h3 {
                 font-size: 1.5rem;
             }
-            
-            & h2 {
-                font-size: 1.7rem;
-            }
-            
-            & h1 {
-                font-size: 2rem;
+
+            & h4 {
+                font-size: 1.3rem;
             }
         }
 
@@ -112,11 +113,55 @@ ul.overflow::after, ol.overflow::after {
        }
 
         & .right.sidebar {
-        @media all and (max-width: $fullPageWidth) {
-            margin-top: 0;
+            @media all and (max-width: $fullPageWidth) {
+                margin-top: 0;
+            }
         }
+
+        .sidebar {
+            gap: 1rem;
+            margin-top: 1.25rem;
+        }
+
+        .sidebar.left {
+            @media all and (min-width: $maxFullPageWidth) {
+                left: calc(50vw - 900px);
+            }
+            @media all and (max-width: $maxFullPageWidth) {
+                left: calc(50vw - 790px);
+            }
+
+        }
+        .sidebar.right {
+            @media all and (min-width: $maxFullPageWidth) {
+                right: calc(50vw - 900px);
+            }
+            @media all and (max-width: $maxFullPageWidth) {
+                right: calc(50vw - 790px);
+            }
         }
     }
+}
+
+.page .center, .page footer {
+    @media all and (min-width: $maxFullPageWidth) {
+        width: 950px;
+    }
+    @media all and (max-width: $maxFullPageWidth) {
+        width: 800px;
+    }
+    @media all and (max-width: $mobileBreakpoint) {
+        width: initial;
+    }
+}
+
+.page .page-header {
+    margin-top: 0;
+    width: initial;
+}
+
+.breadcrumb-container {
+    margin-top: 1.25rem;
 }
 
 hr {
@@ -135,6 +180,27 @@ footer {
     }
 }
 
+
+// Align dark mode and search
+
+.page > #quartz-body .sidebar.right {
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.darkmode.desktop-only {
+    margin:unset;
+    margin-top:0.25rem;
+}
+
+// Bigger popover
+.popover {
+
+    & > .popover-inner {
+      width: 45rem;
+      max-height: 45rem;
+    }
+}
 
 
 // Usage
