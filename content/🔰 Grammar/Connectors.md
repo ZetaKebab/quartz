@@ -1,18 +1,6 @@
 # Connectors (conjunctions)
 
-## ばかり
-
-Means "only" or "nothing but", and can convey surprise or negative judgment depending on the context.
-Used with nouns and verbs.
-
-> [!info] Examples
-> この{国|くに}の{春|はる}は雨==ばかり==だ！
-> In this country, there's nothing but rain in spring.
-> 
-> うちの{子供|こども}はテレビ==ばかり==見てる。
-> My child does nothing but watching TV.
-
-## だけで
+## Just by: だけで
 
 Means "just by doing".
 Used with nouns and verbs.
@@ -20,24 +8,6 @@ Used with nouns and verbs.
 > [!info] Example
 > 会う==だけで=={幸|しあわ}せになる。
 > Just by meeting you, I get happy.
-
-## 又は
-
-{又|また}は can be used for two things:
-* choosing between two options ("or")
-* listing two options ("both")
-
-> [!info] Example
-> 日本語==又は==英語でしゃべれます。
-> I can speak both Japanese and English.
-
-## それでも
-
-Means "but still", "even so", "anyway".
-
-> [!info] Example
-> 雨が{降|ふ}っていた、==それでも==出かけていた。
-> It was raining, but I still went out.
 
 ## のに
 
@@ -71,3 +41,27 @@ Used with a verb (dictionary).
 ## And: そして, それから, それに, それで
 
 See [[Listing#Connecting sentences]].
+
+## Well then: さて
+
+Used to change to topic of the conversation, or to a new element. Translates to "well (then)" or "now".
+
+> [!info] Example
+> ==さて==、食べようか。
+> Well then, shall we eat?
+
+## By the way: ところで
+
+Used to introduce a new topic of conversation. Translates to "by the way".
+
+> [!info] Example
+> ==ところで==、車の{修理|しゅうり}はどう。
+> By the way, how are the repairs for your car?
+
+## Certainly: 確かに
+
+{確|たし}かに means "surely", "certainly".
+
+> [!info] Example
+> この{歌|うた}は==確かに=={面白|おも|しろ}そうだ。
+> This song certainly sounds interesting.

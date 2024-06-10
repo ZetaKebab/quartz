@@ -1,17 +1,4 @@
-# Must & must Not
-
-## が必要・必要がある
-
-Means "needed" or "necessary".
-が{必要|ひつよう} is used mainly with nouns (can be used with verbs by appending こと before).
-{必要|ひつよう}がある is used with verbs.
-
-> [!info] Example
-> {今時|いまどき}、{携帯電話|けいたいでんわ}==が必要です==。
-> Nowadays, a cell phone is necessary.
-> 
-> 今日はパン{屋|や}に行く==必要がない==。
-> No need to go to the bakery today.
+# Obligation: なければ・ないと
 
 ## Must
 
@@ -52,18 +39,6 @@ In casual contexts, can be shortened as ないと.
 > 今日は{勉強|べんきょう}し==ないといけない==。
 > I have to study today.
 
-### Comparing いけない and ならない
-
-* ==いけない== is the standardly used form. It implies a subjective view, that it would be better to do something, to avoid negative consequences (eg: brushing one's teeth, eating well, etc).
-* ==ならない== is usually more formal or in written form. It implies a is more objective view, something that has to be done because there's no other way (eg: respecting the law, paying taxes, etc).
-
-### Comparing なくては, なければ and ないと
-
-なくては and なければ are generally interchangeable in speech. However:
-* ==なくては== is generally used when there is _no penalty_ for not complying.
-* ==なければ== is generally used when there _is a penalty_ for not complying.
-* ==ないと== is lighter and does not imply that there can or cannot be penalty. Its construction is based on the [[Conditional#と]] particle, and should be based on knowledge or experience.
-
 ## Must not
 
 #### 「ちゃ・じゃ」「だめ・いけない・いけません」
@@ -88,11 +63,14 @@ Used in a more formal or written manner. Used with a V-て.
 > {鉄道|てつ|どう}に{歩|ある}い==てはいけません==。
 > Do not walk on the railroad.
 
-### なくてもいい
+## Comparing いけない and ならない
 
-Means "don't have to". Used with a verb in the negative form (ない), appending なくてもいい.
-Can also be used as なくていい.
+* ==いけない== is the standardly used form. It implies a subjective view, that it would be better to do something, to avoid negative consequences (eg: brushing one's teeth, eating well, etc).
+* ==ならない== is usually more formal or in written form. It implies a is more objective view, something that has to be done because there's no other way (eg: respecting the law, paying taxes, etc).
 
-> [!info] Example
-> 今日はレストランで{手伝|て|つ}わ==なくてもいい==。
-> You don't have to help out at the restaurant today (it's okay if you don't help at the restaurant today).
+## Comparing なくては, なければ and ないと
+
+なくては and なければ are generally interchangeable in speech. However:
+* ==なくては== is generally used when there is _no penalty_ for not complying.
+* ==なければ== is generally used when there _is a penalty_ for not complying.
+* ==ないと== is lighter and does not imply that there can or cannot be penalty. Its construction is based on the [[Conditional#と]] particle, and should be based on knowledge or experience.

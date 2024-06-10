@@ -1,4 +1,4 @@
-# Opposition
+# Opposition: but, however
 
 ## が
 
@@ -16,6 +16,8 @@ This is the basic way to say "but".
 > コンビニに行きました。==でも==、何も買わなかった。
 > I went to the convenience store. But I didn't buy anything.
 
+⚠ Do not confuse with [[TeF (4) - even if#Even if ても・でも]].
+
 ## しかし
 
 This is similar to でも, meaning "however", but usually more formal and most commonly found in written form.
@@ -26,7 +28,8 @@ This is similar to でも, meaning "however", but usually more formal and most c
 
 ## けど・けれども
 
-けれども is more formal than けど. Contrary to でも (which is more stand-alone), this links two clauses. The second clause can also be implicit and not said.
+Means "but". Contrary to でも (which is more stand-alone), this links two clauses. The second clause can also be implicit and not said.
+けれども is more formal than けど. 
 
 > [!info] Example
 > {外|そと}は{暑|あつ}い==けど==行きたい。
@@ -37,3 +40,16 @@ It can also be used to soften your assertion.
 > [!info] Example
 > {明日|あした}に行きたい==けど==。
 > I'd like to go tomorrow... (but I don't want to cause any inconvenience).
+
+## 「ん・の」「だけど・ですけど」
+
+Means "but", "however". 
+の is more formal than ん, and ですけど is more formal than だけど.
+
+> [!info] Example
+> {手伝|てつだ}いたい==んですけど=={暇|ひま}はない。
+> I'd like to help but I don't have time.
+
+## Summing up
+
+🛠 Todo.

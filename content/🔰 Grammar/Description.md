@@ -22,34 +22,7 @@ Means "you could say".
 
 > [!info] Examples
 > サッカーは{彼|かれ}の{得意|とくい}です。ほとんどサッカーのプロ==と言ってもいい==。
-
-## まま
-
-<div class="usage">
-<div class="left">
-	<p><span class="box">V (ない)</span></p>
-	<p><span class="box">V (た)</span></p>
-	<p><span class="box">い-Adj</span></p>
-	<p><span class="box">な-Adj</span></p>
-	<p><span class="box">N + の</span></p>
-</div>
-	<p class="right">+ まま</p>
-</div>
-
-Means that something doesn't change state, stays as it is.
-
-> [!info] Examples
-> {開|あ}けた==まま==。
-> To be left open.
-> 
-> {熱|あつ}い==まま==。
-> Still hot.
-> 
-> {昔|むかし}の==まま==。
-> As it always been.
-> 
-> その==まま==でいい。
-> It is fine as it is.
+> Soccer is his strong point. You could almost say he's a pro.
 
 ## がする
 
@@ -85,35 +58,37 @@ Used with a verb in dictionary form.
 > {絵|え}を{塗|ぬる}る==のが下手==です。
 > I'm not good at painting.
 
-## くらい・ぐらい
+## だらけ
+
+Means that something is "full of" or "covered with" something undesirable.
+
+> [!info] Example
+> {子供|こども}のズボンは{泥|どろ}==だらけ==です。
+> The child's pants are covered in mud.
+
+## を込めて
+
+を{込|こ}めて means that something is "full of" or "filled with". Used with positive feelings.
+
+> [!info] Example
+> この{映画|えいが}は{監督|かんとく}から{愛|あい}==を込めて=={作|つく}った。
+> That movie was made with love from the director.
+
+## は～で有名
 
 <div class="usage">
+	<p class="iright">N + は + </p>
 <div class="left">
-	<p><span class="box">V (ない)</span></p>
-	<p><span class="box">い-Adj</span></p>
-	<p><span class="box">な-Adj + な</span></p>
-	<p><span class="box">N + の</span></p>
+	<p><span class="box">V + こと</span></p>
+	<p><span class="box">い-Adj + こと</span></p>
+	<p><span class="box">な-Adj + な + こと</span></p>
+	<p><span class="box">N</span></p>
 </div>
-	<p class="right">+ くらい・ぐらい</p>
+	<p class="right">+ で有名</p>
 </div>
 
-Means "about" or "approximately" when talking about numbers or counter words. ぐらい is more common in conversations, but can change depending on the preceding word.
+は~で{有名|ゆうめい} means "famous for". Used to describe why people, places or things are famous.
 
 > [!info] Example
-> {電車|でんしゃ}はどの==くらい==で{到着|とうちゃく}しますか。
-> About how much time will the train take to arrive?
-> 
-> {医者|いしゃ}に１時間==ぐらい==を{待|ま}ってました。
-> I waited approximately an hour for the doctor.
-
-Also used to compare things as being similar.
-
-> [!info] Example
-> {友達|ともだち}と{試験|しけん}の{結果|けっか}は{同|おな}じ==ぐらい==です。
-> My friend and I have about the same results at the test.
-
-Also means "to the extent of".
-
-> [!info] Example
-> 食べなくて{寝|ね}たい==ぐらい=={疲|つか}れています。
-> I'm tired to the extent of not eating and going to sleep.
+> パリ==は==エッフェル{塔|とう}==で有名==です。
+> Paris is famous for its Eiffel Tower.

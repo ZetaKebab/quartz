@@ -25,7 +25,7 @@ This form is used for yourself when you want to do something. It can be conjugat
 </div>
 
 This form is used to express that someone else wants to do something.
-See also [[Observation - Description#がる・がっている]].
+See also [[Observation - tendency - feelings#がる・がっている]].
 
 > [!info] Examples
 > {彼女|かのじょ}は毎日{練習|れんしゅう}し==たがった==。

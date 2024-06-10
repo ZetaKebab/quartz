@@ -57,7 +57,7 @@ See [[TeF (1) - basics#て sequence]].
 ### や
 
 Used for a list that is unexhaustive. Translates to "among other things". Formal.
-Used only with nouns. Cannot be repeated!
+Used only with nouns.
 
 > [!info] Example
 > フランス==や==スペインに{旅行|りょこう}しました。
@@ -66,7 +66,7 @@ Used only with nouns. Cannot be repeated!
 ### など
 
 Means "things as". Can be used with や for a meaning like "etc".
-Used with nouns. Cannot be repeated!
+Used with nouns.
 
 > [!info] Example
 > お金がないのでカフェ**や**レストラン==など=={払|はら}えない。
@@ -74,8 +74,8 @@ Used with nouns. Cannot be repeated!
 
 ### とか～とか
 
-Used for a list that is unexhaustive. Translates to "among other things". More casual than や or たり～たり. Ending a sentence with とか can soften the meaning. Can also be used to quote someone.
-Only used with verbs and nouns. Can be repeated.
+Used for a list that is unexhaustive. Translates to "and", "among other things". More casual than や. Ending a sentence with とか can soften the meaning. Can also be used to quote someone.
+Only used with verbs and nouns.
 
 > [!info] Examples
 > {果物|くだもの}はバナナ==とか==リンゴ==とか==が好きです。
@@ -94,13 +94,12 @@ Only used with verbs and nouns. Can be repeated.
 	<p><span class="box">V-た</span></p>
 	<p><span class="box">い-Adj <strike>い</strike> かった</span></p>
 	<p><span class="box">な-Adj + だった</span></p>
-	<p><span class="box">N + だった</span></p>
 </div>
-	<p class="right">+ り</p>
+	<p class="right">+ り...します</p>
 </div>
 
-This is used to list things that are related, in an unexhaustive way. Translates to "do things such as".
-Usually used to talk about things like hobbies, explaining liked things, activities done, etc.
+This is used to list things that are related, in an unexhaustive way. Translates to "or", "do things such as".
+Usually used to talk about things like hobbies, explaining liked things, activities done, etc. Not used for usual things like a routine. It is not an ordered or chronological list like [[#て connecting]].
 
 > [!info] Example
 > {週末|しゅうまつ}に{泳|およ}い==だり==、{散歩|さんぽ}し==たり==、{買|か}い{物|もの}し==たり==します。
@@ -118,7 +117,7 @@ Usually used to talk about things like hobbies, explaining liked things, activit
 	<p class="right">+ し</p>
 </div>
 
-Used for a list that is unexhaustive, going in the same direction: for example reasons, causes, qualities, etc.
+Used for a list that is unexhaustive, going in the same direction: for example reasons, causes, qualities, etc. Gives an opinion, a review.
 It can be used to emphasize something when used at the end of a sentence.
 
 > [!info] Examples
@@ -130,9 +129,68 @@ It can be used to emphasize something when used at the end of a sentence.
 
 ## Summing up
 
-🛠 To do: finish.
+* ==や== means "and", and is formal. Can be completed by ==など== (= etc).
+* ==とか== also means "and", but is casual.
+* ==たり== means "or", "things like". Used to express possibilities.
+* ==し== means "and", but with an emphasis on a review.
 
-* ==や== is formal and cannot be repeated (nouns only). Can be completed by ==など==.
-* ==とか== is casual and can be repeated.
-* ==たり==
-* ==し==
+## And also
+
+### も～ば～も
+
+<div class="usage">
+	<p class="iright">N1 + も + </p>
+<div class="ileft">
+<div class="left">
+	<p><span class="box">V (ば)</span></p>
+	<p><span class="box">い-Adj <strike>い</strike> ければ</span></p>
+	<p><span class="box">な-Adj + なら</span></p>
+	<p><span class="box">N + なら</span></p>
+</div>
+</div>
+	<p class="right">+ N2 + も</p>
+</div>
+
+Means "also", "as well". Means that both N1 and N2 are true (and should share a connection).
+⚠ Despite using conditional form, it is not conditional in meaning.
+
+> [!info] Examples
+> {母|はは}はポルトガル{語|ご}==も==できれ==ば==スペイン{語|ご}==も=={話|はな}せる。
+> My mother can speak Portuguese as well as Spanish.
+
+### 上に
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V</span></p>
+	<p><span class="box">い-Adj</span></p>
+	<p><span class="box">な-Adj + な</span></p>
+	<p><span class="box">N + の</span></p>
+</div>
+	<p class="right">+ 上(に)</p>
+</div>
+
+{上|うえ}に means "and also", "in addition", "as well". Used with similar qualities (positive with positive, negative with negative).
+
+> [!info] Examples
+> このスーパーは{高|たか}い==上に=={不便|ふべん}です。
+> This supermarket is expensive as well as inconvenient.
+
+### はもちろん
+
+<div class="usage">
+<div class="">
+	<p><span class="box">N</span></p>
+</div>
+	<p class="r">+ はもちろん + </p>
+<div class="">
+	<p><span class="box">phrase</span></p>
+</div>
+	<p class="r">+ も・さえ</p>
+</div>
+
+Means "not only but also", "not to mention".
+
+> [!info] Examples
+> このゲームセンターにはゲーム==はもちろん==ボウリングもあります。
+> This game center not only has games but also bowling.
