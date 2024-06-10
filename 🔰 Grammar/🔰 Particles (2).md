@@ -47,21 +47,54 @@ These two particles are frequently used together. It means "from X to Y".
 > {朝|あさ}に６時==から==７時==まで==電車で{通|かよ}うっています。
 > I commute by train from 6am to 7am.
 
-## だけ
+## っけ
 
-Means "only", "just".
+<div class="usage">
+<div class="left">
+	<p><span class="box">V</span></p>
+	<p><span class="box">い-Adj <strike>い</strike> かった</span></p>
+	<p><span class="box">な-Adj + だ・だった</span></p>
+	<p><span class="box">N + だ・だった</span></p>
+</div>
+	<p class="right">+ っけ</p>
+</div>
+
+Used when the speaker tries to remember, or confirm an information, that has been forgotten.
 
 > [!info] Example
-> {一|ひと}つ==だけ==ください。
-> Only one, please.
+> {会議|かいぎ}は今日だった==っけ==。
+> Was the meeting today?
 
-### だけで
+## こそ
 
-Means "just by doing". 
+Means "for sure". Used to emphasize words.
+Used with nouns.
+
+⚠ Replaces the を and が particle. It is, in a certain way, a stronger way than が to highlight information.
 
 > [!info] Example
-> 見る==だけ==で{楽|たの}しいですね。
-> Just looking at it is fun, isn't it.
+> {今年|ことし}==こそ=={日本|にほん}を{住|す}む。
+> This year, for sure I'll live in Japan.
+
+## さえ
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (て)</span></p>
+	<p><span class="box">V <strike>ます</strike></p>
+	<p><span class="box">N + で</span></p>
+	<p><span class="box">N + </span></p>
+</div>
+	<p class="right">+ さえ</p>
+</div>
+
+Means "even", "not even" (with negative verbs).
+
+> [!info] Example
+> {先生|せんせい}で==さえ==、この{曲|きょく}を{弾|ひ}くことは{難|むずか}しいです。
+> Even for my teacher, this composition is difficult to play.
+
+⚠ With conditional verbs, it means "only". See [[State#さえ～ば]].
 
 ## Sentence ending
 

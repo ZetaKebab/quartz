@@ -8,7 +8,7 @@ The goal of this website is to be a synthesis of useful resources for my Japanes
 
 ## Sources
 
-Of course, since I'm _learning_ the language, I need to borrow what I write from different sources. So this website uses data from the websites listed here. I don't want any recognition of what is here! It's mostly a compilation of what people who are way better in this language have made before.
+Of course, since I'm _learning_ the language, I need to get inspired from different sources. So this website partly uses information from the websites listed here. I don't want any recognition of what is here! It's mostly a compilation of what people who are way better in this language have made before.
 
 * [Bunpro](https://bunpro.jp/grammar_points)
 * [JLPT Sensei](https://jlptsensei.com/#jlpt-grammar-lists)
@@ -45,8 +45,8 @@ In addition to those I cited, here are other resources I find useful.
 ### Vocabulary
 
 * [Jisho](https://jisho.org/), an online dictionary
-* [Tangorin](https://tangorin.com/sentences), for its sentences database
+* [Tatoeba](https://tatoeba.org), for its sentences database
 
 ## Any errors?
 
-If you find any error, please do contact me! You can find my website in the footer of any page of this website. Thanks!
+If you find any error, please do contact me! I wrote the examples by myself, so they might not be accurate. You can find my website in the footer of any page of this website. Thanks!

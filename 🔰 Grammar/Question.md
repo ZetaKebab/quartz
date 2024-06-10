@@ -17,6 +17,30 @@ It can also be used when there is uncertainty between two or more choices. It ca
 > 雨==か=={分|わ}かりません。
 > I don't know if it will rain.
 
+## かな・かしら
+
+Means "I wonder", "should I?". かな is a neutral form, while かしら sounds feminine.
+
+> [!info] Example
+> この{帽子|ぼうし}を{被|かぶ}ろう==かな==。
+> Should I wear this hat?
+
+## かい
+
+Using this particle, the sentences becomes a yes/no question. Very casual, masculine connotation.
+
+> [!info] Example
+> 来るの==かい==。
+> Are you coming?
+
+## どうやって
+
+Means "how", "in what way".
+
+> [!info] Example
+> これを==どうやって==作れましたか。
+> How did you make this?
+
 ## Probably - right - isn't it?
 
 ### でしょう
@@ -64,27 +88,3 @@ This particle when added to the end of a sentence meaning "right?".
 * ==でしょう==・==だろう== expresses a probability or an assumption.
 * ==ではないか==・==じゃないか== invites or suggests an action.
 * ==ね== asks an agreement or a confirmation.
-
-## かな・かしら
-
-Means "I wonder", "should I?". かな is a neutral form, while かしら sounds feminine.
-
-> [!info] Example
-> この{帽子|ぼうし}を{被|かぶ}ろう==かな==。
-
-## かい
-
-Using this particle, the sentences becomes a yes/no question. Very casual, masculine connotation.
-
-> [!info] Example
-> 来るの==かい==。
-> Are you coming?
-
-## どうやって
-
-Means "how", "in what way".
-
-> [!info] Example
-> これを==どうやって==作れましたか。
-> How did you make this?
-

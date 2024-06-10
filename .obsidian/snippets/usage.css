@@ -37,3 +37,19 @@
     margin-left: 0.25rem;
     margin-right: 0.25rem;
 }
+
+.usage .ileft {
+    padding-left: 1.7rem;
+
+    background-image: linear-gradient(black, black), linear-gradient(black, black);
+    background-repeat: no-repeat;
+    background-size: 8px 2px;
+    background-position: top left, bottom left;
+
+    border-left: solid black;
+    border-width: 0 2px;
+}
+
+.usage .iright {
+    padding-right: 1rem;
+}

@@ -14,6 +14,12 @@ When a sentence is negative, は is usually used instead of が and を.
 > 肉==は==食べません。
 > I don't eat meat.
 
+When used with a noun that is a number or an amount, it takes the meaning of "at least" or "around". Can be mixed with [[Amount#くらい]].
+
+> [!info] Example
+> {毎週|まいしゅう}２{回|かい}==は=={映画館|えいがかん}に行きます。
+> I go to the cinema at least twice a week.
+
 ## が
 
 The が particle indicates the subject of a sentence.

@@ -52,15 +52,6 @@ Means "to reach a point". Used with verbs.
 > この本{全部|ぜんぶ}{分|わ}かる==ようになった==。
 > I've come to understand all of this book.
 
-## ようにする
-
-Means "to try to", "to make sure to".
-Used with a verb.
-
-> [!info] Example
-> 毎日に{朝|あさ}ご{飯|はん}を食べる==ようとします==。
-> I'll try to eat a breakfast everyday.
-
 ## に気がつく
 
 <div class="usage">
@@ -114,3 +105,31 @@ Means "too much", "exceeding".
 > [!info] Example
 > {昨晩|さく|ばん}に{飲|の}み==すぎて=={頭|あたま}が{痛|いた}い。
 > I drank too much last night and my head hurts.
+
+## Try to
+
+### ようにする
+
+Means "to try to", "to make sure to". It's more of an assertion than ようとする.
+Used with a verb.
+
+> [!info] Example
+> 毎日に{朝|あさ}ご{飯|はん}を食べる==ようとします==。
+> I'll try to eat a breakfast everyday.
+
+### ようとする・ようとしない
+
+Means "try to", "attempt to" (or not, in the negative form). It's more of an attempt than with ようにする.
+Used with the volitional form of verbs (よう).
+
+> [!info] Example
+> 出かけ==ようとした==時、電話が{鳴|な}ってた。
+> At the time I was trying to go out, the phone rang.
+> 
+> さっき店に{入|はい}==ろうとしたら==が、ドアが{閉|し}まってしまいました。
+> I tried to enter the shop earlier, but the door was closed...
+> 
+> 彼は{運動|うんどう}し==ようとしない==。
+> He doesn't try to exercise.
+
+⚠ Not used in negative form to talk about oneself.

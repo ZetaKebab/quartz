@@ -27,6 +27,8 @@ Means "is it alright if?", "may I?".
 > ここに{座|すわ}==てもいい==ですか。
 > May I sit here?
 
+A more polite way is [[Can't help - doesn't matter#ても構わない]].
+
 ## ないでください
 
 Means "please don't". It is a polite request. Removing the ください makes it more casual.
