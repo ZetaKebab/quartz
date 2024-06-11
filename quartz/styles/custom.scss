@@ -1,6 +1,7 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+// Callouts design
 .text-highlight {
     background-color: #ddcee5;
 }
@@ -27,6 +28,22 @@
     --color: #a672c0;
 }
 
+.callout.note {
+    & table {
+        margin: 0;
+        margin-bottom: 0.5rem;
+
+        & thead {
+            display: none;
+        }
+
+        & td {
+            padding: 0;
+        }
+    }
+}
+
+
 table {
     border: 2px solid var(--gray);
 
@@ -43,23 +60,9 @@ table {
     }
 }
 
-.callout.note {
-    & table {
-        margin: 0;
-        margin-bottom: 0.5rem;
-
-        & thead {
-            display: none;
-        }
-
-        & td {
-            padding: 0;
-        }
-    }
-}
 
 ul.overflow, ol.overflow {
-    max-height: 75dvh;
+    max-height: initial;
 }
 
 ul.overflow::after, ol.overflow::after {
@@ -74,85 +77,35 @@ ul.overflow::after, ol.overflow::after {
     }
 }
 
-.page {
-    & > #quartz-body {
+.page-title {
+    margin-top: 0.5rem;
+}
 
-        & .center {
-            & p {
-                font-size: 1.15rem;
-                white-space: break-spaces;
-                hyphens: none;
-            }
-            
-            & li {
-                font-size: 1.15rem;
-            }
-            
-            & h1 {
-                font-size: 2rem;
-                margin-top: 1.25rem;
-            }
 
-            & h2 {
-                font-size: 1.7rem;
-            }
+// Align dark mode and search
+.darkmode.desktop-only {
+    margin:unset;
+    margin-top:0.25rem;
+}
 
-            & h3 {
-                font-size: 1.5rem;
-            }
 
-            & h4 {
-                font-size: 1.3rem;
-            }
-        }
+// Bigger popover
+.popover {
 
-        & .sidebar {
-            @media all and (max-width: $fullPageWidth) {
-                margin-top: 1rem;
-            }
-       }
-
-        & .right.sidebar {
-            @media all and (max-width: $fullPageWidth) {
-                margin-top: 0;
-            }
-        }
-
-        .sidebar {
-            gap: 1rem;
-            margin-top: 1.25rem;
-        }
-
-        .sidebar.left {
-            @media all and (min-width: $maxFullPageWidth) {
-                left: calc(50vw - 900px);
-            }
-            @media all and (max-width: $maxFullPageWidth) {
-                left: calc(50vw - 790px);
-            }
-
-        }
-        .sidebar.right {
-            @media all and (min-width: $maxFullPageWidth) {
-                right: calc(50vw - 900px);
-            }
-            @media all and (max-width: $maxFullPageWidth) {
-                right: calc(50vw - 790px);
-            }
-        }
+    & > .popover-inner {
+      width: 45rem;
+      max-height: 35rem;
     }
 }
 
-.page .center, .page footer {
-    @media all and (min-width: $maxFullPageWidth) {
-        width: 950px;
-    }
-    @media all and (max-width: $maxFullPageWidth) {
-        width: 800px;
-    }
-    @media all and (max-width: $mobileBreakpoint) {
-        width: initial;
-    }
+
+// Hide buttons
+button#explorer {
+    display: none;
+}
+
+button#toc {
+    display: none;
 }
 
 .page .page-header {
@@ -181,67 +134,156 @@ footer {
 }
 
 
-// Align dark mode and search
+.page {
+    & > #quartz-body {
 
-.page > #quartz-body .sidebar.right {
-    flex-direction: row;
-    gap: 1rem;
-}
+        & .center {
+            & p {
+                font-size: 1.15rem;
+                white-space: break-spaces;
+                hyphens: none;
+            }
+            
+            & li {
+                font-size: 1.15rem;
+            }
+            
+            & h1 {
+                font-size: 2rem;
+                margin-top: 0.65rem;
+            }
 
-.darkmode.desktop-only {
-    margin:unset;
-    margin-top:0.25rem;
-}
+            & h2 {
+                font-size: 1.7rem;
+            }
 
-// Bigger popover
+            & h3 {
+                font-size: 1.5rem;
+            }
 
-.popover {
+            & h4 {
+                font-size: 1.3rem;
+            }
+        }
 
-    & > .popover-inner {
-      width: 45rem;
-      max-height: 45rem;
+        & .sidebar {
+            gap: 1rem;
+            margin-top: 1.25rem;
+
+            @media all and (min-width: $fullPageWidth) {
+                gap: 0rem;
+                width: 370px;
+                padding: 0 3rem;
+            }
+
+            @media all and (max-width: $fullPageWidth) {
+                margin-top: 1rem;
+            }
+        }
+
+        & .sidebar.left {
+            margin-top: 0;
+            height: 100%;
+            overflow-y: scroll;
+
+            @media all and (min-width: $maxFullPageWidth) {
+                left: calc(50vw - 900px);
+            }
+            @media all and (max-width: $maxFullPageWidth) {
+                left: calc(50vw - 790px);
+            }
+
+        }
+        & .sidebar.right {
+            flex-direction: row;
+            gap: 1rem;
+
+            @media all and (min-width: $maxFullPageWidth) {
+                right: calc(50vw - 900px);
+            }
+            @media all and (max-width: $fullPageWidth) {
+                margin-top: 0;
+                flex-direction: column;
+            }
+            @media all and (max-width: $maxFullPageWidth) {
+                right: calc(50vw - 790px);
+            }
+
+            & > * {
+                @media all and (max-width: $fullPageWidth) {
+                    flex: 1;
+                    min-width: 100%;
+                }
+            }
+        }
+
     }
 }
 
-
-// Usage
+.page .center, .page footer {
+    @media all and (min-width: $maxFullPageWidth) {
+        width: 950px;
+    }
+    @media all and (max-width: $maxFullPageWidth) {
+        width: 800px;
+    }
+    @media all and (max-width: $mobileBreakpoint) {
+        width: initial;
+    }
+}
 
 .usage {
     display:flex;
     flex-direction: row;
     align-items: center;
-}
 
-.usage p {
-    margin:0;
-}
+    & p {
+        margin:0;
+    }
 
-.usage .box {
-    border: 1px solid var(--darkgray);
-    border-radius: 0.5rem;
-    padding: 0.2rem 0.3rem 0.2rem 0.3rem;
-    display: inline-block;
-    width: fit-content;
-    margin: 0.2rem;
-}
+    & .box {
+        border: 1px solid var(--darkgray);
+        border-radius: 0.5rem;
+        padding: 0.2rem 0.3rem 0.2rem 0.3rem;
+        display: inline-block;
+        width: fit-content;
+        margin: 0.2rem;
+    }
 
-.usage .left {
-    padding-right: 1.7rem;
+    & .left {
+        padding-right: 1.7rem;
+    
+        background-image: linear-gradient(var(--darkgray), var(--darkgray)), linear-gradient(var(--darkgray), var(--darkgray));
+        background-repeat: no-repeat;
+        background-size: 8px 2px;
+        background-position: top right, bottom right;
+    
+        border-right: solid var(--darkgray);
+        border-width: 0 2px;
+    }
 
-    background-image: linear-gradient(var(--darkgray), var(--darkgray)), linear-gradient(var(--darkgray), var(--darkgray));
-    background-repeat: no-repeat;
-    background-size: 8px 2px;
-    background-position: top right, bottom right;
+    & .right {
+        padding-left: 1rem;
+    }
 
-    border-right: solid var(--darkgray);
-    border-width: 0 2px;
-}
+    & .r {
+        margin-left: 0.25rem;
+        margin-right: 0.25rem;
+    }
 
-.usage .right {
-    padding-left: 1rem;
-}
-
-.usage .r {
-    margin-left: 0.25rem;
-    margin-right: 0.25rem;
+    & .ileft {
+        padding-left: 1.7rem;
+    
+        background-image: linear-gradient(black, black), linear-gradient(black, black);
+        background-repeat: no-repeat;
+        background-size: 8px 2px;
+        background-position: top left, bottom left;
+    
+        border-left: solid black;
+        border-width: 0 2px;
+    }
+    
+    & .iright {
+        padding-right: 1rem;
+    }
 }
