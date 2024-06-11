@@ -50,5 +50,5 @@ The way the intervals are counted between these two grammar structure is differe
 > １日==おきに== =２日==ごとに== = every other day = every second day
 > ●○●○●○●
 >
-> ２日==おきに== =３日==ごとに== (every three days = every third day)  
+> ２日==おきに== =３日==ごとに== (every three days = every third day)
 > ●○○●○○●○○●

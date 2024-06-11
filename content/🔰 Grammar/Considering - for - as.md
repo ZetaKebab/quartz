@@ -68,7 +68,7 @@ It means that when when the first part of the sentence changes, the second part 
 
 This example works with all forms.
 
-## につれて and にしたがって
+### につれて and にしたがって
 
 In both forms, the change is natural, and is not an intentional change. When the verb expresses gradual change, both can be used.
 につれて is more common and more used for personal actions.
@@ -77,7 +77,7 @@ In both forms, the change is natural, and is not an intentional change. When the
 > {冬|ふゆ}が{地|ちか}づく==にしたがって・につれて=={気温|きおん}が{下|さ}がってきた。
 > As winter approaches, the temperatures have lowered.
 
-## にしたがって
+### にしたがって
 
 This form also has the meaning of "in accordance to". It doesn't express change. It is possible to talk about intention.
 
@@ -85,7 +85,7 @@ This form also has the meaning of "in accordance to". It doesn't express change.
 > {歯医者|はいしゃ}==にしたがって=={毎日|まいにち}２{回|かい}{歯|は}を{磨|みが}く。
 > I brush my teeth twice a day as recommended by my dentist.
 
-## に伴って
+### に伴って
 
 に{伴|ともな}って also has the meaning of a an instantaneous change: when the first part changes, the second part also changes instantly. The first part is the reason of it changing.
 
@@ -93,11 +93,11 @@ This form also has the meaning of "in accordance to". It doesn't express change.
 > オリンピックがある==に伴って=={交通費|こうつうひ}がねあが{値上|ねあ}がりしてしまった。
 > As the Olympics are held, transportations cost have increased.
 
-## と共に
+### と共に
 
 と{共|とも}に has 3 other meanings.
 
-### Almost at the same time
+#### Almost at the same time
 
 It is also used for two actions that happens at approximately the same time. The two actions do not have to be related. They also don't have to be specifically about change.
 
@@ -105,7 +105,7 @@ It is also used for two actions that happens at approximately the same time. The
 > {鳥|とり}は{鳴|な}き{声|ごえ}をする==と共に=={風|かぜ}が{吹|ふ}く。
 > The bird sings and the wind blows.
 
-### Together with
+#### Together with
 
 It can also mean "together with". It is much more formal than {一緒|いっしょ}に.
 
@@ -113,7 +113,7 @@ It can also mean "together with". It is much more formal than {一緒|いっし�
 > {妻|つま}==と共に=={新|あたら}しい{人生|じんせい}を{始|はじ}めります。
 > I am starting a new life with my wife.
 
-### As well as, also
+#### As well as, also
 
 It can also mean "as well as", "also".
 

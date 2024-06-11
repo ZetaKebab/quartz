@@ -78,11 +78,13 @@ Means that something is "full of" or "covered with" something undesirable.
 
 <div class="usage">
 	<p class="iright">N + は + </p>
+<div class="ileft">
 <div class="left">
 	<p><span class="box">V + こと</span></p>
 	<p><span class="box">い-Adj + こと</span></p>
 	<p><span class="box">な-Adj + な + こと</span></p>
 	<p><span class="box">N</span></p>
+</div>
 </div>
 	<p class="right">+ で有名</p>
 </div>
