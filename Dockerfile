@@ -1,4 +1,4 @@
-FROM python:latest as convert
+FROM python:latest AS convert
 WORKDIR /usr/src/app
 COPY content/ ./
 COPY custom/convert-furigana/program/convert-furigana.py ./
@@ -9,13 +9,13 @@ RUN python -m pip install beautifulsoup4
 RUN python convert-furigana.py .
 RUN python convert-usage.py .
 
-FROM node:20-slim as builder
+FROM node:22-slim AS builder
 WORKDIR /usr/src/app
 COPY package.json .
 COPY package-lock.json* .
 RUN npm ci
 
-FROM node:20-slim
+FROM node:22-slim
 WORKDIR /usr/src/app
 COPY --from=builder /usr/src/app/ /usr/src/app/
 COPY . .

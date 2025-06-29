@@ -2,7 +2,7 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "jp.marchal.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: false,
@@ -34,6 +34,7 @@ const config: QuartzConfig = {
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#161618",
@@ -44,6 +45,7 @@ const config: QuartzConfig = {
           secondary: "#7b97aa",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
@@ -52,7 +54,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -75,7 +77,32 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: (f1, f2) => {
+          const naturalCompare = (a: string, b: string) => {
+            const splitA = a.split(/(\d+)/).filter(Boolean)
+            const splitB = b.split(/(\d+)/).filter(Boolean)
+
+            for (let i = 0; i < Math.min(splitA.length, splitB.length); i++) {
+              const numA = parseInt(splitA[i], 10)
+              const numB = parseInt(splitB[i], 10)
+
+              if (!isNaN(numA) && !isNaN(numB)) {
+                if (numA !== numB) return numA - numB
+              } else {
+                const compare = splitA[i].localeCompare(splitB[i])
+                if (compare !== 0) return compare
+              }
+            }
+
+            return splitA.length - splitB.length
+          }
+
+          const f1Title = f1.frontmatter?.title?.toLowerCase() ?? ""
+          const f2Title = f2.frontmatter?.title?.toLowerCase() ?? ""
+          return naturalCompare(f1Title, f2Title)
+        },
+  }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
@@ -83,7 +110,10 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
+      Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      // Plugin.CustomOgImages(),
     ],
   },
 }
