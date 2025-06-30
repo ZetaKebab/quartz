@@ -1,24 +1,5 @@
 # Possibility
 
-## でも
-
-Used to list one or more possible options.
-
-> [!info] Example
-> ジュース==でも==お茶==でも==飲もうか。
-> Shall we drink something like a juice or tea?
-
-⚠ Do not confuse with [[TeF (4) - even if#Even if ても・でも]].
-
-## か何か
-
-か{何|なに}か means "or something".
-Used with nouns.
-
-> [!info] Example
-> ジュース==か何か=={飲|の}もうか。
-> Shall we drink something like a juice?
-
 ## かもしれない
 
 Express a possibility, like "perhaps".
@@ -37,6 +18,30 @@ Can be used as もしかしたら, もしかすると and もしかして.
 > ==もしかして=={今日|きょう}も{郵便局員|ゆうびんきょくいん}が来ません==かもしれない==。
 > Perhaps the postman will not come today either.
 
+## かねない
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (<strike>ます</strike>)</span></p>
+	<p><span class="box">N + に</span></p>
+</div>
+	<p class="right">+ かねない</p>
+</div>
+
+Means "possibly", "might", "could be". Usually used for negative outcomes. Mostly used in written language.
+
+> [!info] Example
+> この{道|みち}は{危|あぶ}ないので{事故|じこ}が{起|お}き==かねない==。
+> This road is dangerous, so an accident might happen.
+
+## 恐らく
+
+{恐|おそ}らく means "probably", "perhaps". Placed at the beginning of a phrase. Implies a high probability.
+
+> [!info] Example
+> ==恐らく=={彼女|かのじょ}は{今日|きょう}も{来|こ}ない。
+> She probably won't come today either.
+
 ## ことができる
 
 Means "can", "able to".
@@ -47,20 +52,12 @@ It has the same meaning as the potential form (see Conjugation [[Basics]]).
 > {英語|えいご}を{話|はな}す==ことが出来ない==。
 > I cannot speak English.
 
-## かどうか
-
-Means "whether or not". 
-
-> [!info] Example
-> 行きたい==かどうか=={分|わ}からない。
-> I'm not sure if I want to go or not.
-
 ## ないことはない
 
 <div class="usage">
 <div class="left">
 	<p><span class="box">V (ない)</span></p>
-	<p><span class="box">い-Adj <stroke>い</stroke> くない</span></p>
+	<p><span class="box">い-Adj <strike>い</strike> くない</span></p>
 	<p><span class="box">な-Adj + ではない</span></p>
 	<p><span class="box">N + ではない</span></p>
 </div>
@@ -73,25 +70,131 @@ Means "not impossible to", "it is not that". Used with negative forms.
 > 本を{読|よ}ま==ないことはない==ですが、{最近|さいきん}は{暇|ひま}がない。
 > It's not that I don't read books, it's just that I don't have free time these days.
 
-## か
+## 恐れがある
 
-Means "or". Can be used when there is uncertainty between two or more choices.
-See [[Question#か]].
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る・ない)</span></p>
+	<p><span class="box">い-Adj </span></p>
+	<p><span class="box">な-Adj + な</span></p>
+	<p><span class="box">N + の</span></p>
+</div>
+	<p class="right">+ 恐らくがある</p>
+</div>
 
-## 又は
-
-{又|また}は can be used for two things:
-* choosing between two options ("or")
-* listing two options ("both")
-
-> [!info] Example
-> 日本語==又は==英語でしゃべれます。
-> I can speak both Japanese and English.
-
-## それとも
-
-This is used to give a choice between a limited set of two options. It is casual.
+{恐|おそ}れがある means "there is a risk that". Used when something bad could happen.
 
 > [!info] Example
-> 何が食べたい。ラーメン==それとも==カレーか。
-> What do you want to eat? Ramen or curry?
+> また{地震|じしん}の==恐らくがある==。{気|き}を{付|つ}けて。
+> There will probably be another earthquake. Please be careful.
+
+## ようでは
+
+Means "if". Used when the result would be bad.
+Used with verbs.
+
+> [!info] Example
+> {化|ば}け{物|もの}が{来|く}る==ようでは==、あなたを{食|た}べちゃうよ。
+> If a monster comes, it will eat you.
+
+## ものなら
+
+<div class="usage">
+<div class="">
+	<p><span class="box">V (potential れる)</span></p>
+</div>
+	<p class="r">+ ものなら</p>
+</div>
+
+Means "if A were possible, then B". Implies that A is either impossible or unlikely.
+
+> [!info] Example
+> {合格|ごうかく}できる==ものなら==、{世界中|せかいじゅう}{一番|いちばん}うれしいなあ。
+> If I could pass, I would be the happiest in the world (but it is unlikely I'll pass).
+
+## ないことには～ない
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (ない)</span></p>
+	<p><span class="box">い-Adj (ない)</span></p>
+	<p><span class="box">な-Adj + でない</span></p>
+	<p><span class="box">N + である</span></p>
+</div>
+	<p class="right">+ ことには + </p>
+	<p class="box">V (ない)</p>
+</div>
+
+Means "unless you do something".
+
+> [!info] Examples
+> {運転|うんてん}{免許|めんきょ}を{持|も}った==ないことには=={運転|うんてん}できない。
+> You can't drive unless you have a driving licence.
+
+## にしろ~にしろ
+
+<div class="usage">
+<div class="">
+	<p><span class="box">V</span></p>
+</div>
+	<p class="r">+ にしろ + </p>
+<div class="">
+	<p><span class="box">V</span></p>
+</div>
+	<p class="r">+ にしろ</p>
+</div>
+<div class="usage">
+<div class="">
+	<p><span class="box">い-Adj</span></p>
+</div>
+	<p class="r">+ にしろ + </p>
+<div class="">
+	<p><span class="box">い-Adj</span></p>
+</div>
+	<p class="r">+ にしろ</p>
+</div>
+<div class="usage">
+<div class="">
+	<p><span class="box">な-Adj</span></p>
+</div>
+	<p class="r">+ ことは + </p>
+<div class="">
+	<p><span class="box">な-Adj</span></p>
+</div>
+	<p class="r">+ にしろ</p>
+</div>
+<div class="usage">
+<div class="">
+	<p><span class="box">N</span></p>
+</div>
+	<p class="r">+ ことは + </p>
+<div class="">
+	<p><span class="box">N</span></p>
+</div>
+	<p class="r">+ にしろ</p>
+</div>
+
+Means "whether... or". Can be used as にせろ~にせろ or にしても~にしても, which is more formal.
+
+> [!info] Example
+> {動物|どうぶつ}==にしろ=={植物|しょくぶつ}==にしろ==、その{物質|ぶっしつ}は{危険|きけん}です。
+> Whether animals or plants, the substance is dangerous.
+
+## なくはない・なくもない
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (なく<strike>て</strike>)</span></p>
+	<p><span class="box">い-Adj (く) + なく</span></p>
+	<p><span class="box">な-Adj + では + なく</span></p>
+	<p><span class="box">N + が・は・に + なく</span></p>
+</div>
+	<p class="right">+ はない・もない</p>
+</div>
+
+Means "it's not that".
+With potential form of verbs, means that something is possible, despite seeming not.
+
+> [!info] Examples
+> やる{気|き}==がなくはない==、{時間|じかん}は{少|すく}ないです。
+> It's not that I don't have the will, I just don't have time.

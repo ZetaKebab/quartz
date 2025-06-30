@@ -13,7 +13,7 @@ Only for **verbs**.
 > I bought a cake for my mother.
 > 
 
-For casual language, ==てやる== can be used.
+For casual language, てやる can be used.
 
 ## てくれる
 

@@ -2,7 +2,7 @@
 
 ## より
 
-With the following pattern, it means that A is "more" Adj "than" B.
+With the following pattern, it means that A is "more" something "than" B.
 
 <div class="usage">
 	<p class="r">AはB +</p>
@@ -15,6 +15,8 @@ With the following pattern, it means that A is "more" Adj "than" B.
 > [!info] Example
 > 電車は車==より=={速|はや}いです。
 > Trains are faster than cars.
+
+Do not confuse with [[🔰 Particles (2)#より]].
 
 ## より(も)
 
@@ -109,7 +111,7 @@ Used with nouns.
 </div>
 
 Means that the extent has not been reached, so it is not as much.
-See also [[Amount#ほど]].
+See also [[Amounts#ほど]].
 
 > [!info] Example
 > {韓国|かんこく}==ほど=={辛|から}いの食べ{物|もの}は==ない==。
@@ -117,3 +119,28 @@ See also [[Amount#ほど]].
 > 
 > {中国|ちゅうごく}{料理|りょうり}は{韓国|かんこく}{料理|りょうり}==ほど=={辛|から}く==ない==です。
 > Korean food is spicier than Chinese food.
+
+## ならまだしも
+
+Means that A is okay, but B is not. "Rather", "instead".
+
+> [!info] Example
+> {寒|さむ}いだけ==ならまだしも==、{雨|あめ}が{降|ふ}ているから行きたくない。
+> It would be fine if it was just cold, but since it's raining I don't want to go.
+
+## に限る
+
+に{限|かぎ}る means "the best is".
+Used with verbs and nouns.
+
+> [!info] Example
+> パンなら、フランス==に限る==。
+> Bread is best in France.
+
+## に越したことはない
+
+に{越|こし}したことはない means "there's nothing better than...". Implies that it is nice to reach it.
+
+> [!info] Example
+> {健康|けんこう}のために{早|はや}く{寝|ね}る==に越したことはない==。
+> For your health, it's best to go to bed early.

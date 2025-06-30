@@ -27,6 +27,14 @@ Can also be used as だけではなく.
 > この{都市|とし}は大きい==だけでなく==、きれいでもある。
 > This city is not only big, it's also pretty.
 
+## のみ
+
+It is a more formal, written version of だけ. It is only used with nouns.
+
+> [!info] Example
+> この{道|みち}は{歩行者|ほこうしゃ}==のみ==です。
+> This road is pedestrian only.
+
 ## きり
 
 <div class="usage">
@@ -99,10 +107,28 @@ Used to say "only" with a negative meaning.
 </div>
 
 Means "not only A but also B".
+Can also be used as ばかりか, for a slightly stronger effect.
 
 > [!info] Examples
 > 彼女は{綺麗|きれい}==ばかりでなく=={天才|てんさい}もあるです。
 > She's not only beautiful, she's also a genius.
+
+## に限らず
+
+に{限|かぎ}らず means "not only A, but also B".
+Used with nouns.
+
+> [!info] Examples
+> この{店|みせ}は{平日|へいじつ}==に限らず==、{週末|しゅうまつ}も{営業|えいぎょう}している。
+> This store is open not only on weekdays but also on weekends.
+
+## のみならず
+
+Means "not only, but also".
+
+> [!info] Examples
+> {彼|かれ}は{優|やさ}しくない{人|ひと}==のみならず==、{口|くち}も{悪|わる}い。
+> Not only is he not kind, but he's also bad mouthed.
 
 ## てばかりいる
 
@@ -112,3 +138,20 @@ Used with a verb in て form.
 > [!info] Examples
 > {僕|ぼく}の{犬|いぬ}は{鳴|な}け==てばかりいる==。
 > My dog is always barking.
+
+## でしかない
+
+Means "nothing but" or "no more than". More often than not conveys a negative nuance.
+Used with nouns.
+
+> [!info] Examples
+> {彼|かれ}は{子供|こども}==でしかない==。
+> He nothing more than a child.
+
+## に過ぎない
+
+に{過|す}ぎない means "just", "no more than". Used for something that is not of great quality, quantity or level.
+
+> [!info] Examples
+> 彼女はただ{初心者|しょしんしゃ}==に過ぎない==。
+> She's just a beginner.

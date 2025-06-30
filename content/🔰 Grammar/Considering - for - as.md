@@ -2,33 +2,26 @@
 
 ## としては
 
-🛠 Todo: nuance.
-
 Means "as", "in the role of". The と particle implies a result.
-More used for objective judgments.
 Used with nouns.
 
 > [!info] Example
-> {厳|きび}しいのに{先生|せんせい}==としては==あまり{良|よ}くない。
-> Because he is strict, he's not a very good teacher.
+> 彼はカメラマン==としては==いい{仕事|しごと}をする。
+> As a cameraman, he does a good job.
 
 ## にしては
 
-🛠 Todo: nuance.
-
 Means "considering", "for". The に particle implies a simultaneous existence.
-More used to give personal opinions.
+The difference with としては resides in the fact that this is used to make a contrast between the general image associated with something and what we're describing.
 Used with verbs and nouns.
 
-> [!info] Example
-> 田中さんは{父|ちち}==にしては=={最低|さいてい}です。
-> As a father, Tanaka-san is the worst.
+> [!info] Example 
+> このカバンは安い==にしては==悪くない。
+> This bag might be cheap, it is not bad.
 
 ## としても
 
-🛠 Todo: nuance.
-
-Means "assuming", "even if".
+Means "assuming", "even if". It has the same meaning as [[TeF (4) - even if#Even if ても・でも]], but bolder.
 
 > [!info] Example
 > 私==としても==出来ます。
@@ -36,13 +29,11 @@ Means "assuming", "even if".
 
 ## にしても
 
-🛠 Todo: nuance.
-
-Means "even if", "even though".
+Means "even if", "even though". It has the same meaning as [[🔰 Particles (1)#も]], but bolder. In some rare written cases, it has the same meaning as としても.
 
 > [!info] Example
-> それ==にしても==、{気|き}を{付|つ}けてくください。
-> Still, please be careful.
+> フランス{語|ご}==にしても=={英語|えいご}==にしても=={彼|かれ}はとても{上手|じょうず}です。
+> He is very good at both French and English.
 
 ## "As": Gradual change
 

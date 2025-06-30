@@ -67,3 +67,11 @@ Used to make a supposition. Would translate to something like "even if... is the
 > [!info] Example
 > ==たとえ=={新幹線|しん|かん|せん}==でも==、１時間かかる。
 > Even if you take the Shinkansen, it will take one hour.
+
+### てでも
+
+Means "even if I have to". Expresses a strong determination to do something.
+
+> [!info] Example
+> {午前|ごぜん}４{時|じ}に{起|お}きれ==てでも==、{遅刻|ちこく}するつもりはない。
+> Even if it means waking up at 4am, I don't intend to be late.

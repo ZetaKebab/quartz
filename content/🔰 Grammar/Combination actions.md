@@ -130,6 +130,54 @@ It focuses on the end of the action rather than the process.
 > この１３時間{飛行|ひこう}で{座|すわ}り==っぱなし==でした。
 > I sat the entire time on this 13 hours flight.
 
+## ~かねる
+
+~かねる means "unable to do", due to an external circumstance. It is polite.
+
+> [!info] Example
+> ごめんなさい、それをでき==かねます==。
+> I'm sorry, I cannot do that.
+
+## ~っこない
+
+~っこない means that something is not possible.
+
+> [!info] Example
+> {全然|ぜんぜん}{勉強|べんきょう}しなかった。。。{合格|ごうかく}し==っこない==よ。
+> I did not study at all... There's no way I'll pass.
+
+## ~抜く
+
+~{抜|ぬ}く means to do something to the end, or completely. The nuance is that someone tried hard and has made an effort to achieve this result.
+
+> [!info] Example
+> それは{毎日|まいにち}やり==抜く=={無理|むり}ですよ。
+> You cannot do this every day.
+
+## ~給え
+
+~{給|たま}え is used for a light order. It is used by someone of higher rank to someone of lower rank.
+
+> [!info] Example
+> ここに{座|すわ}り==給え==。
+> Seat here.
+
+## ~つつ(も)
+
+~つつ means that something happens at the same time as another action. Adding も adds the meaning of "even": "even while doing".
+
+> [!info] Example
+> 食べ==つつ==、飲みましょう。
+> While eating, let's drink.
+
+## ~つつある
+
+~つつある means that something is in an ongoing process or action, in a similar manner as てくる.
+
+> [!info] Example
+> {雪|ゆき}が{降|ふ}り==つつある==。
+> It is snowing.
+
 ## ～込む
 
 ~{込|こ}む has multiple meanings depending on the verb. Sometimes it is idiomatic and so it cannot exactly be guessed. However, there are some broad categories.

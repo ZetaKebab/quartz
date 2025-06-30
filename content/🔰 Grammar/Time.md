@@ -44,15 +44,6 @@ Used by combining to a verb.
 > {時々|とき|どき}パリへ行く==ことがある==。
 > I sometimes go to Paris.
 
-## ところ
-
-Means "just about to". Used when describing what we're about to do.
-Used by combining to a verb.
-
-> [!info] Example
-> 今ご{飯|はん}を作る==ところ==です。
-> I'm about to make dinner.
-
 ## から～まで
 
 See から: [[🔰 Particles (2)#From, since]] (from).
@@ -158,13 +149,22 @@ Used with nouns measuring time.
 > ３{年|ねん}==ぶりに==ブラジルを{戻|もど}ります。
 > For the first time in 3 years, I'm returning to Brazil.
 
-## から〜にかけて
+## に先立ち
 
-Means "through", "from... until". Indicates that something happens over a period of time.
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る)</span></p>
+	<p><span class="box">N</span></p>
+</div>
+	<p class="right">+ に先立ち・に先立って</p>
+</div>
 
-> [!info] Example
-> {朝|あさ}==から=={夜|よる}==にかかて==ゲームしたい。
-> I want to play games from morning to night.
+に{先|さき}{立|だ}ち means "before", "prior to". It is formal.
+Also used as に先立つ when a second noun follows a first one.
+
+> [!info] Examples
+> {初|はじ}める==に先立って==、{準備|じゅんび}しないといけない。
+> Before starting, you need to prepare.
 
 ## 上で
 
@@ -181,3 +181,61 @@ Means "through", "from... until". Indicates that something happens over a period
 > [!info] Examples
 > {面接|めんせつ}の==上で==、{連絡|れんらく}します。
 > We will contact you after the interview.
+
+## にあたって
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る)</span></p>
+	<p><span class="box">N</span></p>
+</div>
+	<p class="right">+ にあたって</p>
+</div>
+
+Means "at the time of", "on the occasion of". It is formal. Used when talking about the preparation.
+Can also be used as にあたり.
+Used with verbs and nouns.
+
+> [!info] Examples
+> {試験|しけん}を{受|う}ける==にあたって==、{鉛筆|えんぴつ}と{消|け}しゴムを{持|も}ってきてください。
+> Please bring a pencil and an eraser in preparation for the test.
+
+## に際して
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る)</span></p>
+	<p><span class="box">N</span></p>
+</div>
+	<p class="right">+ に際して</p>
+</div>
+
+に{際|さい}して means "at the time of", "on the occasion of". It is formal. Used when talking about the moment of the situation.
+
+> [!info] Examples
+> {試験|しけん}を{受|う}ける==に際して==、{静|しず}かにしてください。
+> During the test, please be quiet.
+
+## とっくに
+
+Means "long ago", "a long time ago".
+
+> [!info] Examples
+> {彼女|かのじょ}は==とっくに=={帰|かえ}ってしまった。
+> She went home long ago.
+
+## やがて
+
+Means "before long", "eventually".
+
+> [!info] Examples
+> ==やがて==この{新|あたら}しいゲームは{売|う}り{出|だ}すはずです。
+> This new game should be put on sale soon.
+
+## ところだった
+
+Means "almost", "about to", "almost happened". Used with a dictionary form verb (る) by adding ところだった.
+
+> [!info] Examples
+> {車|くるま}の{事故|じこ}が{起|お}こる==ところだった==。{無事|ぶじ}よかった。
+> A car accident almost happened. Thankfully we're safe.

@@ -43,6 +43,14 @@ Used with words in negative form.
 > どうしてエアコンを{付|つ}きましたか。{今|いま}は==別に=={暑|あつ}==くない==よ。
 > Why did you turn on the AC? It's not that hot right now.
 
+## わずかに
+
+Means "slightly", "only", "a little". Used at the beginning of a phrase to indicate a particularly small amount of something.
+
+> [!info] Example
+> いつでも{隣|となり}の{人|ひと}の{音|おと}が==わずかに=={聞|き}こえます。
+> You can always hear the neighbours a little bit.
+
 ## No matter how
 
 ### どんなに～ても
@@ -71,6 +79,42 @@ Means "no matter what".
 > ==どうしても=={花火|はなび}に行きたい。
 > No matter what, I want to go see the fireworks.
 
+## At least
+
+### 少なくとも
+
+{少|すく}なくとも means "at least". Implies an obligation.
+
+> [!info] Example
+> ==少なくとも==もっと{三人|さんにん}が{必要|ひつよう}です。
+> At least three more people are required.
+
+### せめて
+
+Means "at least". Implies a request.
+
+> [!info] Example
+> ==せめて=={週|しゅう}に{一度|いちど}{勉強|べんきょう}してください。
+> Please study at least once a week.
+
+## だけましだ
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V</span></p>
+	<p><span class="box">い-Adj</span></p>
+	<p><span class="box">な-Adj + な</span></p>
+	<p><span class="box">N + である</span></p>
+</div>
+	<p class="right">+ だけましだ</p>
+</div>
+
+Means "should be grateful for", "at least", "better than". Means that while something is not good, or not as good as one wishes, it's still better than nothing or an alternative.
+
+> [!info] Examples
+> {給料|きゅうりょう}がちょっとすくない、{就職|しゅうしょく}==だけましだ==。
+> The salary is a little low, but at least I found a job.
+
 ## Very
 
 ### てしょうがない・てしかたがない
@@ -85,13 +129,11 @@ Means "no matter what".
 </div>
 
 Means both "extremely" and "can't be helped".
+See [[Can't help - doesn't matter#てしょうがない・てしかたがない]]
 
 > [!info] Example
 > {今日|きょう}は{暑|あつ}く==てしょうがない==。
 > Today is extremely hot.
-> 
-> {隣|となり}の{会話|かいわ}は{聞|き}き==ってしょうがない==。
-> I can't help but to listen to the conversion next door.
 
 ### なかなか
 
@@ -148,7 +190,7 @@ Means "as much as possible". なるべく is a bit softer than できるだけ.
 </div>
 
 Means "so much... that".
-Adjectives nominalized can be used as nouns. See [[Transformation#~さ adjective as noun]] and [[Transformation#~み adjective as noun]].
+Nominalized adjectives can be used as nouns. See [[Transformation#~さ adjective as noun]] and [[Transformation#~み adjective as noun]].
 
 > [!info] Example
 > おいしさの==あまり==、このレストラン{毎日|まいにち}行きたい。
@@ -176,3 +218,61 @@ Means "so much... that". A version of あまり that can also be used with adjec
 > [!info] Example
 > {先生|せんせい}が==あまりに=={厳|きび}しくて、{私|わたし}は{泣|な}き{始|はじ}めった。
 > The teacher was so strict that I started to cry.
+
+## Not at all
+
+### ちっとも~ない
+
+Means "not at all". Has a nuance of perhaps happening once or twice. It is casual.
+Used with a verb in the negative (ない) form.
+
+> [!info] Example
+> ==ちっとも=={学校|がっこう}を{休|やす}まない。
+> I never miss school.
+
+### 少しも~ない
+
+<div class="usage">
+	<p class="iright">少しも + </p>
+<div class="ileft">
+	<p><span class="box">V (ない)</span></p>
+	<p><span class="box">い-Adj + <strike>い</strike> くない</span></p>
+	<p><span class="box">な-Adj + ではない</span></p>
+	<p><span class="box">N + ではない</span></p>
+</div>
+</div>
+
+{少|すこ}しも~ない means "not at all". Has a nuance of perhaps happening once or twice. Mostly used in writing.
+
+> [!info] Example
+> そのアパートは==少しも==大きくなかった。
+> That appartment was really not big.
+
+### 全く~ない
+
+{全|まった}く~ない means "not at all". Has a nuance of absolutely never happening.
+Used with a verb in the negative (ない) form.
+
+> [!info] Example
+> ==全く=={信|しん}じられない。
+> That is absolutely unbelievable.
+
+### として~ない
+
+Means "not at all". Has a nuance of absolutely never happening.
+Insists more on the duration: "not even".
+Used before a a duration, a number, etc.
+
+> [!info] Example
+> {彼女|かのじょ}は{一日|いちにち}==として=={仕事|しごと}を{遅|おく}れなかった。
+> She has never missed a day of work, not even one day.
+
+### 全然
+
+{全然|ぜんぜん} means "not at all".
+
+⚠ In more casual settings, it can be used for positive meanings: "completely", "totally".
+
+> [!info] Example
+> ==全然=={知|し}らなかった。
+> I had no idea.

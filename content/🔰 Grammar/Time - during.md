@@ -37,7 +37,7 @@ Can also be used to talk about a distance between two physical places or the tim
 A first meaning is similar to {間|あいだ} (while), but with intentionality.
 
 > [!info] Example
-> 電車に{乗|の}った==間に==、本を読みました。
+> 電車に{乗|の}っている==間に==、本を読みました。
 > While I was on the train, I read a book.
 
 A second meaning is a statement of something that happened during a time period, independently of your actions.
@@ -56,7 +56,7 @@ Contrary to 間, it doesn't include the whole time period. So 間に means that 
 	<p class="r"> + ながら + ...</p>
 </div>
 
-Means "while", "simultaneously". The difference with ついでに is that here the main action is the second one.
+Means "while", "simultaneously". The difference with ついでに is that here the main action is the second one. Happens at the same time.
 
 > [!info] Example
 > {歩|ある}き==ながら=={電話|でん|わ}を見ています。
@@ -73,11 +73,29 @@ Means "while", "simultaneously". The difference with ついでに is that here t
 	<p class="right">+ ついでに</p>
 </div>
 
-Means "while", "at the same time". The difference with ながら is that here the main action is the first one.
+Means "while", "at the same time". The difference with ながら is that here the main action is the first one. An opportunity of doing something during the occurrence of the first one (but not for the entire time).
 
 > [!info] Example
 > スーパーに行く==ついでに==、おにぎりを{買|か}ってくれませんか。
 > While you're going to the supermarket, could you bring onigiri?
+
+## と同時に
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る)</span></p>
+	<p><span class="box">い-Adj</span></p>
+	<p><span class="box">な-Adj + である</span></p>
+	<p><span class="box">N</span></p>
+</div>
+	<p class="right">+ と同時に</p>
+</div>
+
+と{同時|どうじ}に means "at the same time as", "while". Contrary to ながら, it is used for something that happens at a precise moment, not during the whole time.
+
+> [!info] Example
+> {電車|でんしゃ}に{乗|の}っている==と同時に==、おじいさんが{落|お}ちた。
+> While on the train, an old man fell off.
 
 ## 中
 
@@ -109,6 +127,25 @@ Means "while". The nuance is that the time is optimal and should be taken advant
 > [!info] Example
 > {晴|は}れる==うちに=={散歩|さんぽ}しましょう。
 > Let's take a walk while the weather is nice.
+
+## 限り
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る・た・ない・ている・)</span></p>
+	<p><span class="box">N + である</span></p>
+</div>
+	<p class="right">+ 限り</p>
+</div>
+
+{限|かぎ}り means "as long as", "while". Also means "limited to".
+
+> [!info] Example
+> この{映画|えいが}は{来週|らいしゅう}==限り=={劇場|げきじょう}で{上映|じょうえい}されます。
+> This movie will be in theaters the next week only.
+> 
+> {仕事|しごと}を{真面目|まじめ}にする==限り==、{大丈夫|だいじょうぶ}。
+> As long as you're serious doing your job, it will be fine.
 
 ## 途中で・途中に
 

@@ -73,6 +73,14 @@ Used with verbs that expresses change.
 > {禁煙|きんえん}の{場所|ばしょ}は{増|ふ}えている==一方です==。
 > The number of places where smoking is prohibited keeps increasing.
 
+## ばかりだ
+
+Means "to continue to", in a negative direction. Used with verbs in the dictionary form (る), that describe a form of change. Can also be used as ばっかり, ばっか, ばかし, and ばっかし instead of ばかり.
+
+> [!info] Examples
+> {病気|びょうき}は{悪|わる}くなる==ばかりです==。
+> The illness is only getting worse.
+
 ## 結果
 
 <div class="usage">

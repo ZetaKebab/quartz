@@ -52,3 +52,19 @@ The way the intervals are counted between these two grammar structure is differe
 >
 > ２日==おきに== =３日==ごとに== = every three days = every third day
 > ●○○●○○●○○●
+
+## につけ
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る)</span></p>
+	<p><span class="box">N</span></p>
+</div>
+	<p class="right">+ につけ・につけて</p>
+</div>
+
+Means "every time", "whenever". Formal and rarely used nowadays.
+
+> [!info] Examples
+> 私が{掃除機|そうじき}を{使|つか}う==につけ==、うちの{犬|いぬ}が{怖|こわ}がります。
+> Every time I use the vacuum cleaner, my dog is scared.

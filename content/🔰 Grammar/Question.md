@@ -88,3 +88,21 @@ This particle when added to the end of a sentence meaning "right?".
 * ==でしょう==・==だろう== expresses a probability or an assumption.
 * ==ではないか==・==じゃないか== invites or suggests an action.
 * ==ね== asks an agreement or a confirmation.
+
+## ことか
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V</span></p>
+	<p><span class="box">い-Adj</span></p>
+	<p><span class="box">な-Adj + な</span></p>
+	<p><span class="box">N + である</span></p>
+</div>
+	<p class="right">+ ことか</p>
+</div>
+
+Means "how" or "what". Used to describe an extent that is unusual or unbelievable. It is mostly used in written contexts, as it is a bit dramatic.
+
+> [!info] Example
+> フランスには、パン{屋|や}の{多|おお}さにどれほど{信|しん}じられない==ことか==。
+> It's incredible how many bakeries there are in France.

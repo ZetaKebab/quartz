@@ -2,7 +2,7 @@
 
 ## てください
 
-It is a polite request that is translated as "please do". See Conjugation [[Basics]] ("command").
+It is a polite request that is translated as "please do".
 In casual speech, can be shortened to て.
 
 > [!info] Example
@@ -49,8 +49,17 @@ It is used with verbs by removing the ます and adding なさい. In casual con
 
 ## ように言う
 
+<div class="usage">
+	<p class="r">V +</p>
+<div class="">
+	<p><span class="box">ように</span></p>
+</div>
+	<p class="r">+ V 「言う・命じる・頼む・...」</p>
+</div>
+
 It means "to tell", "to request", "to order".
-It is form by added ように{言|い}う to a verb. The verb {頼|たの}む can be used for requests, while {命|めい}じる can be used for order. The verb {言|い}う can tell the three meanings depending on the tone.
+
+The verb {頼|たの}む can be used for requests, while {命|めい}じる can be used for order. The verb {言|い}う can tell the three meanings depending on the tone. Other similar verbs can be used ({注意|ちゅうい}する, {進|すす}む, etc).
 
 > [!info] Example
 > {子供|こども}にお{菓子|か|し}を食べない==ように言った==。

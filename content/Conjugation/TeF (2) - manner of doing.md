@@ -114,3 +114,46 @@ Used with verbs in て form.
 > [!info] Example
 > {夜|よる}ので、{歌|うた}え==ている場合じゃない==！
 > It's night, so it's no time to be singing!
+
+## てばかりはいられない
+
+Means "can't keep doing". Can also be used as てばかりもいられない.
+
+> [!info] Example
+> {走|は}==ってばかりはいられない==。
+> I can't keep running.
+
+## ていては
+
+Means "if something continues". Used generally for negative outcomes.
+Only used for verbs.
+
+> [!info] Example
+> {酒|さけ}しかを{飲|の}ん==でいては==、{健康|けんこう}が{悪|わる}くなる。
+> If you only drink alcool, your health will worsen.
+
+## てならない
+
+Means "extremely", "can't help but to do". Usually used for natural things occuring that cannot be controlled, like feeling.
+
+> [!info] Example
+> この{町|まち}には{寒|さむ}く==てならない==。
+> It's extremely cold in this town.
+
+## てたまらない
+
+With verbs conjugated in the たい form, this means "can't help but want to".
+With other forms, this means "extremely".
+
+> [!info] Example
+>  {留学|りゅうがく}に{行|い}きたく==てたまらない==。
+> I can't help but want to go abroad.
+
+## てはいられない
+
+Means "unable to", "cannot afford to". 
+
+> [!info] Example
+> お{金|かね}がないから、レストランに{食|た}べ==てはいられない==。
+> I can't afford to eat at a restaurant because I don't have any money.
+
