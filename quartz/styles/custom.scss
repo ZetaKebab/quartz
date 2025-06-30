@@ -256,10 +256,12 @@ table {
                 @media all and ($desktop)
                 {
                     width: 300px;
+                    min-width: 300px;
                 }
                 @media all and ($maxDesktop)
                 {
                     gap: 0rem;
+                    min-width: 300px;
                     width: 370px;
                     padding: 0 3rem;
                 }
@@ -348,6 +350,7 @@ table {
                     max-height: 100%;
                     overflow-y: hidden;
                     height: 100%;
+                    width: inherit;
                 }
             }
         }
