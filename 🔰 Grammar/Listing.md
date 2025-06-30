@@ -47,6 +47,15 @@ This particles means "and" or "with". Used for a list that is exhaustive. Connec
 > フランス語==と==スペイン語を習っています。
 > I am learning French and Spanish.
 
+### 及び
+
+{及|およ}び means "and", like と. Used in formal settings.
+Used with nouns.
+
+> [!info] Examples
+> {試験|しけん}には{鉛筆|えんぴつ}==及び=={消|け}しゴムを{持|も}ってきてください。
+> Please bring a pencil and an eraser to the exam.
+
 ### て connecting
 
 Used for a list that is exhaustive. Connects verbs.
@@ -71,6 +80,15 @@ Used with nouns.
 > [!info] Example
 > お金がないのでカフェ**や**レストラン==など=={払|はら}えない。
 > I can't pay things like cafes or restaurant (etc.) because I have no money.
+
+### といった
+
+Used to describe typical examples: "things as", "like", "such as". It is casual. It has the same meaning as など.
+Used with nouns.
+
+> [!info] Examples
+> フランスとカナダ==といった=={国|くに}はフランス{語|ご}を{話|はな}す。
+> Countries such as France and Canada speak French.
 
 ### とか～とか
 
@@ -127,70 +145,34 @@ It can be used to emphasize something when used at the end of a sentence.
 > 言ってない==し==！
 > I never said that!
 
+### やら~やら
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V</span></p>
+	<p><span class="box">い-Adj</span></p>
+	<p><span class="box">N</span></p>
+</div>
+	<p class="right">+ やら + B + やら</p>
+</div>
+
+This form is unexhaustive and can be translated as "and", "among other things".
+It has 3 nuances:
+- Conveys a negative image
+- Among other things, in an unorganized manner
+- Conflicting feelings
+
+> [!info] Examples
+> {今日|きょう}{電車|でんしゃ}がなかった==やら==、{車|くるま}が{壊|こわ}れた==やら==、{家|いえ}に{出|で}かけられませんでした。
+> There were no trains and my car broke down, so I couldn't go out.
+> 
+> {黒|くろ}い==やら=={白|しろ}い==やら=={着物|きもの}があります。
+> There are black and white kimonos (among other things).
+> 
+
 ## Summing up
 
 * ==や== means "and", and is formal. Can be completed by ==など== (= etc).
 * ==とか== also means "and", but is casual.
 * ==たり== means "or", "things like". Used to express possibilities.
 * ==し== means "and", but with an emphasis on a review.
-
-## And also
-
-### も～ば～も
-
-<div class="usage">
-	<p class="iright">N1 + も + </p>
-<div class="ileft">
-<div class="left">
-	<p><span class="box">V (ば)</span></p>
-	<p><span class="box">い-Adj <strike>い</strike> ければ</span></p>
-	<p><span class="box">な-Adj + なら</span></p>
-	<p><span class="box">N + なら</span></p>
-</div>
-</div>
-	<p class="right">+ N2 + も</p>
-</div>
-
-Means "also", "as well". Means that both N1 and N2 are true (and should share a connection).
-⚠ Despite using conditional form, it is not conditional in meaning.
-
-> [!info] Examples
-> {母|はは}はポルトガル{語|ご}==も==できれ==ば==スペイン{語|ご}==も=={話|はな}せる。
-> My mother can speak Portuguese as well as Spanish.
-
-### 上に
-
-<div class="usage">
-<div class="left">
-	<p><span class="box">V</span></p>
-	<p><span class="box">い-Adj</span></p>
-	<p><span class="box">な-Adj + な</span></p>
-	<p><span class="box">N + の</span></p>
-</div>
-	<p class="right">+ 上(に)</p>
-</div>
-
-{上|うえ}に means "and also", "in addition", "as well". Used with similar qualities (positive with positive, negative with negative).
-
-> [!info] Examples
-> このスーパーは{高|たか}い==上に=={不便|ふべん}です。
-> This supermarket is expensive as well as inconvenient.
-
-### はもちろん
-
-<div class="usage">
-<div class="">
-	<p><span class="box">N</span></p>
-</div>
-	<p class="r">+ はもちろん + </p>
-<div class="">
-	<p><span class="box">phrase</span></p>
-</div>
-	<p class="r">+ も・さえ</p>
-</div>
-
-Means "not only but also", "not to mention".
-
-> [!info] Examples
-> このゲームセンターにはゲーム==はもちろん==ボウリングもあります。
-> This game center not only has games but also bowling.

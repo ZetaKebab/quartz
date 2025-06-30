@@ -17,7 +17,7 @@ See [[Connectors#のに#In order to]].
 	<p class="right">+ ため(に)</p>
 </div>
 
-Means "in order to". Mostly used in writing.
+Means "in order to". Mostly used in writing, rarely used with negative.
 
 > [!info] Examples
 > {面接|めんせつ}の==ために==ヒゲを{剃|そ}らなきゃ。
@@ -46,7 +46,7 @@ Can also mean "as for", "regarding".
 
 ## ように
 
-Means "in order to". Implies that an effort is made or a goal to obtain.
+Means "in order to". Implies that an effort is made or a goal to obtain. There is generally will implied.
 Used with verbs.
 
 > [!info] Examples

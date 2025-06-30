@@ -13,11 +13,11 @@ Of course, since I'm _learning_ the language, I need to get inspired from differ
 * [Bunpro](https://bunpro.jp/grammar_points)
 * [JLPT Sensei](https://jlptsensei.com/#jlpt-grammar-lists)
 * [Maggie Sensei](https://maggiesensei.com/)
-* [Try! Series of books](https://2024.ask-books.com/tag/try/)
+* [Try! Series of books](https://ask-books.com/tag/try/)
+* [A Handbook of Japanese Grammar](https://www.9640.jp/nihongo/en/detail/?678)
 * [Hedgehog Japanese](https://hedgehog-japanese.com/category/grammar/)
 * [Wasabi](https://www.wasabi-jpn.com/category/japanese-grammar/)
 * [Japanese StackExchange](https://japanese.stackexchange.com/)
-* [Guide du Japonais](https://guidedujaponais.fr/)
 * [Tofugu](https://www.tofugu.com)
 * [Imabi](https://imabi.org/table-of-contents-%e7%9b%ae%e6%ac%a1/)
 * [Tae-Kim's Guide](https://guidetojapanese.org/learn/)
@@ -36,6 +36,7 @@ In addition to those I cited, here are other resources I find useful.
 
 * [Sakubun](https://sakubun.xyz/)
 * [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
+* [Natively](https://learnnatively.com/browse/jpn/)
 
 ### Grammar
 
@@ -46,6 +47,10 @@ In addition to those I cited, here are other resources I find useful.
 
 * [Jisho](https://jisho.org/), an online dictionary
 * [Tatoeba](https://tatoeba.org), for its sentences database
+
+### Apps
+
+- [Anki](https://apps.ankiweb.net/), the spaced repetition software
 
 ## Any errors?
 

@@ -114,12 +114,12 @@ Means "to try to", "to make sure to". It's more of an assertion than ようと�
 Used with a verb.
 
 > [!info] Example
-> 毎日に{朝|あさ}ご{飯|はん}を食べる==ようとします==。
+> 毎日に{朝|あさ}ご{飯|はん}を食べる==ようにします==。
 > I'll try to eat a breakfast everyday.
 
 ### ようとする・ようとしない
 
-Means "try to", "attempt to" (or not, in the negative form). It's more of an attempt than with ようにする.
+Means "try to", "attempt to" (or not, in the negative form). It's more of an attempt than with ようにする. Can also mean "just as I was about to".
 Used with the volitional form of verbs (よう).
 
 > [!info] Example

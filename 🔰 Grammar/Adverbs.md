@@ -49,7 +49,7 @@ This form is used with a verb in the negative form (ない).
 {一体|いったい} is used to make an emphasis when something is surprising, confusing, etc.
 
 > [!info] Example
-> ==いったい=={誰|だれ}がそんあことをしたか。
+> ==いったい=={誰|だれ}がそんなことをしたか。
 > Who in the world would do something like this?
 
 ## まるで
@@ -83,3 +83,25 @@ Means "already". More formal than もう, implies that something is too late and
 > [!info] Example
 > {遅|おそ}く{起|お}きたので==すでに==バスは{出発|しゅっぱつ}してしまった。
 > I woke up late, so the bus already left.
+
+## どうせ
+
+Means "anyhow", "at any rate".
+
+> [!info] Example
+> ==どうせ==、{僕|ぼく}のアドバイスを{聞|き}かないんでしょう。
+> Anyhow, you won't listen to advice, right?
+
+## なお
+
+Means "more", "in addition". Used in writing.
+Can be used:
+- in a similar way as もっと;
+- to add information to a previous sentence.
+
+> [!info] Example
+> ==なお=={考|かんが}えるせんいけない。
+> I still have to think about it.
+> 
+> {今日|きょう}はたくみさんが{休|やす}みです。==なお==、{彼|かれ}は{仕事|しごと}を{終|お}わりなかった。
+> Takumi-san is not there today. In addition, he did not finish his work.

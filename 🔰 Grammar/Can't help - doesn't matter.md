@@ -2,19 +2,46 @@
 
 ## Can't help
 
+### てしょうがない・てしかたがない
+
+Means both "extremely" and "can't be helped". Implies that it's something very much wanted.
+Also expresses strong emotion, feeling, desire that cannot be controlled.
+See [[Amounts - quantification#てしょうがない・てしかたがない]].
+
+> [!info] Example
+> ラーメンが{食|た}べ==てしょうがない==。
+> I can't help but to eat ramen.
+> 
+> {隣|となり}の{会話|かいわ}は{聞|き}き==ってしょうがない==。
+> I can't help but to listen to the conversion next door.
+
 ### ずにはいられない
 
-Means "can't help but do something".
+Means "can't help but do something". Implies that one can't stop doing it.
 Made with a verb in the negative form (ない) without the ない ending and adding ずにはいられない. 
 
 > [!info] Example
 > {悲|かな}しいのでアイスクリーム食べ==ずには入れれない==。
 > I'm sad so I can't help but eat ice cream.
 
-### てしょうがない・てしかたがない
+## ないではいられない
 
-Means can't be helped".
-See [[Amounts - quantification#てしょうがない・てしかたがない]].
+This means "cannot help doing something". Has the same nuance as ずにはいられない。
+Made with a verb in the negative form (ない) without the ない ending and adding ではいられない.
+
+> [!info] Example
+> ゲームをし==ないではいられない==。
+> I can't help but play games.
+
+## ざるを得ない
+
+ざるを{得|え}ない means "can't help doing". Implies that it is not the first choice, but that there is no other option available.
+Made with a verb in the negative form (ない) and adding ざるを得ない.
+Exception: する becomes せ.
+
+> [!info] Example
+> この{仕事|しごと}をせ==ざるを得ない==。
+> I have no choice but to do this job.
 
 ## Doesn't matter
 
@@ -30,7 +57,7 @@ See [[Amounts - quantification#てしょうがない・てしかたがない]].
 	<p class="right">+ もかまわない・もかまいません</p>
 </div>
 
-Means "it doesn't matter if", "I don't mind".
+ても{構|かま}わない means "it doesn't matter if", "I don't mind".
 
 > [!info] Example
 > ここで{座|すわ}==っても構いません==か。

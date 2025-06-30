@@ -1,4 +1,4 @@
-# Amount
+# Amounts
 
 ## くらい・ぐらい
 
@@ -34,6 +34,14 @@ Also means "to the extent of".
 > 食べなくて{寝|ね}たい==ぐらい=={疲|つか}れています。
 > I'm tired to the extent of not eating and going to sleep.
 
+## ばかり
+
+Means "about" or "approximately", when used with nouns indicating time or distance. Has the same meaning as ぐらい or ほど, but only in written form.
+
+> [!info] Example
+> {薬屋|くすりや}まで１０分==ばかり==かかる。
+> It takes about 10 minutes to get to the pharmacy.
+
 ## は particle
 
 See [[🔰 Particles (1)#は]].
@@ -50,11 +58,20 @@ See [[🔰 Particles (1)#は]].
 	<p class="right">+ 程</p>
 </div>
 
-Like くらい, it describes an approximate amount. It focuses on a limit being reached. It translates to "about" or "to the extent".
+{程|ほど}, like くらい, it describes an approximate amount. It focuses on a limit being reached. It translates to "about" or "to the extent".
 
 > [!info] Example
 > {地下鉄|ちかてつ}を{乗|の}るために、{死|し}ぬ==程=={走|はし}った。
 > In order to catch the subway, I ran to death.
+
+## 一応
+
+{一応|いちおう} means "more or less", "roughly".
+Can also mean "just in case". Used to tell the minimum required amount is done.
+
+> [!info] Examples
+> ==一応=={終|お}わりましたけど。
+> I more or less finished, but...
 
 ## 一度に
 
@@ -72,3 +89,11 @@ Used with {少|すこ}し, means "little by little".
 > [!info] Example
 > ２{個|こ}==ずつ==ください。
 > I'll take two of each please.
+
+## ろくに～ない
+
+Means "not enough, improperly, insufficiently". Used with a negative phrase.
+
+> [!info] Examples
+> ５{年|ねん}{中国語|ちゅうごくご}を{勉強|べんきょう}したのに、==ろくに=={喋|しゃべ}ら==ない==。
+> Even tough I studied Chinese for 5 years, I cannot speak it really well.

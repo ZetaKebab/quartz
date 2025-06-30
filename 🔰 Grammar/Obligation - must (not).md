@@ -58,6 +58,7 @@ This form is used with a V-て, depending on the ending:
 ### てはいけない
 
 Used in a more formal or written manner. Used with a V-て.
+てはならない is a stronger form.
 
 > [!info] Example
 > {鉄道|てつ|どう}に{歩|ある}い==てはいけません==。

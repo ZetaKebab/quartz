@@ -14,7 +14,7 @@ When a sentence is negative, は is usually used instead of が and を.
 > 肉==は==食べません。
 > I don't eat meat.
 
-When used with a noun that is a number or an amount, it takes the meaning of "at least" or "around". Can be mixed with [[Amount#くらい]].
+When used with a noun that is a number or an amount, it takes the meaning of "at least" or "around". Can be mixed with [[Amounts#くらい・ぐらい]].
 
 > [!info] Example
 > {毎週|まいしゅう}２{回|かい}==は=={映画館|えいがかん}に行きます。
@@ -37,7 +37,7 @@ It is also used for making a contrast.
 In a noun modifying clause, は becomes が.
 
 > [!info] Example
-> {彼|かれ}はラメんを{作|つく}。
+> {彼|かれ}はラメんを{作|つく}った。
 > He made ramen.
 > 
 > {彼|かれ}==が=={作|つく}ったラメんはおいしいです。
@@ -62,7 +62,7 @@ The first sentence would most likely be the answer to "where are you from?", whi
 This particle is used for the target of the action of a verb.
 
 > [!info] Examples
-> ケーキ==を==作る。
+> ケーキ==を=={作|つく}る。
 > I prepare a cake.
 
 ## に

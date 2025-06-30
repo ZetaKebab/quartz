@@ -21,7 +21,7 @@ Similar in the quotation sense to [[Description#って・って言う・と言�
 
 ## と聞いた
 
-Used for something you heard by someone identifiable: for example, you were told by someone.
+と{聞|きい}いた is used for something you heard by someone identifiable: for example, you were told by someone.
 Mostly used formally.
 
 > [!info] Example
@@ -30,7 +30,7 @@ Mostly used formally.
 
 ## と言われている
 
-Used when you heard something, but not from someone specifically identifiable: general knowledge, a rumour, etc.
+と{言|い}われている is used when you heard something, but not from someone specifically identifiable: general knowledge, a rumour, etc.
 For nouns, だ is placed before.
 Mostly used formally.
 
@@ -72,7 +72,7 @@ Can be used as ==ということだ== or ==とのことだ==. A more casual vers
 ## Summing up
 
 * ==んだって== used for quotation, similar to って, when the information is new.
-* ==と聞いた== is used for something for something you heard from an identifiable speaker. Is mostly formal.
+* ==と聞いた== is used for something you heard from an identifiable speaker. Is mostly formal.
 * ==と言われている== is used for something for something you heard from an unspecified speaker. Is mostly formal.
 * ==そうだ== is used for hearsay and is casual.
 * ==ということだ== is used for hearsay, when the validity of the information is certain. More formal than そうだ.
@@ -85,3 +85,23 @@ Used with nouns. With verbs, ところ is added before.
 > [!info] Examples
 > {天気予報|てんきよほう}==によると=={今日|きょう}は{雪|ゆき}が{降|ふ}るようだ。
 > According to the weather forecast, it's supposed to snow today.
+
+## とか(で)
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V</span></p>
+	<p><span class="box">い-Adj</span></p>
+	<p><span class="box">な-Adj + だ</span></p>
+	<p><span class="box">N + だ</span></p>
+</div>
+	<p class="right">+ とか(で)</p>
+</div>
+
+Used to tell information heard via rumour. "I heard that..."
+
+> [!info] Examples
+> {目黒|めぐろ}に{住|す}んでいる==とか==。
+> Apparently they live in Meguro.
+
+Do not confuse with [[Listing#とか～とか]].

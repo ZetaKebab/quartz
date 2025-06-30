@@ -20,7 +20,7 @@ Means "instead" or "rather".
 	<p class="right">+ 代わりに</p>
 </div>
 
-{代|か}わりに means "instead of", "in exchange for". Generally used about things.
+{代|か}わりに means "instead of", "in exchange for". Generally used to talk about things.
 Does not have a notion of replacing in a temporal transition, more like a one off occurrence.
 
 > [!info] Examples

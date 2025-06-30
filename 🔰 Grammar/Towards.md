@@ -19,6 +19,14 @@ Used with nouns.
 > この{建物|たてもの}は{南|みなみ}==向き==です。
 > This building is facing south.
 
+## に向かって・に向けて
+
+に{向|む}かって means "to face", "towards".
+
+> [!info] Example
+> {今|いま}{名古屋|なごや}==に向かっています==。
+> I'm heading towards Nagoya now.
+
 ## を中心に
 
 を{中心|ちゅう|しん}に means "mainly", "focused on".
@@ -48,7 +56,7 @@ Used with a noun.
 <div class="left">
 	<p><span class="box">V + の</span></p>
 	<p><span class="box">い-Adj</span></p>
-	<p><span class="box">な-Adj + な + の</span></p>
+	<p><span class="box">な-Adj + (な + の)</span></p>
 	<p><span class="box">N + な + の</span></p>
 </div>
 	<p class="right">+ に対して</p>

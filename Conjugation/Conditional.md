@@ -97,7 +97,7 @@ Negative form:
 	<p class="right">+ なければ</p>
 </div>
 
-See Conjugation [[Basics]] for verbs (the う sound transforms the the corresponding え sound).
+See Conjugation [[Basics]] for verbs (the う sound transforms to the corresponding え sound).
 
 Means "if". A conditional relationship without the cause-effect relationship of と.
 If A happens, then B. Situations must be hypothetical. Generally used for one-time results.
@@ -198,7 +198,7 @@ Means "if we assume that A, B".
 
 ## もし(も)
 
-Used with conditional forms ば, と, たら and ても (see [[TeF (4) - even if#Even if ても・でも]]).
+Used with conditional forms ば, と, たら and ても (see [[TeF (4) - even if#Even if ても・でも|Even if: ても・でも]]).
 もしも puts more emphasis than もし.
 
 > [!info] Example

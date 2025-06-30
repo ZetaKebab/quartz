@@ -1,11 +1,19 @@
 # Amounts of frequency
 
+## 再び
+
+{再|ふたた}び means "again", "once more".
+
+> [!info] Examples
+> ==再び=={来|き}ませんですね。
+> I won't be coming again.
+
 ## Never
 
 ### 決して～ない
 
 <div class="usage">
-	<p class="iright">消して + </p>
+	<p class="iright">決して + </p>
 <div class="ileft">
 	<p><span class="box">V (ない)</span></p>
 	<p><span class="box">い-Adj <strike>い</strike> くない</span></p>
@@ -14,7 +22,7 @@
 </div>
 </div>
 
-{決|け}して~ない means "never". Used with negative verbs.
+{決|けっ}して~ない means "never". Used with negative verbs.
 
 > [!info] Examples
 > 私は==決して=={夢|ゆめ}を{覚|おぼ}えません。

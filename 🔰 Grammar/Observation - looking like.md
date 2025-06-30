@@ -206,3 +206,44 @@ This is used (unlike other forms that can apply to abstract similarities) exclus
 > [!info] Example
 > {彼女|かのじょ}はフランス人==に見える==。
 > She looks like she is French.
+
+## かのよう「だ・に・な」
+
+Means "as if", "just like".
+Use かのうようだ if it is ending the sentence, かのうように before a verb, かのような before a noun.
+
+> [!info] Examples
+> このゲームは{現実|げんじつ}==かのようだ==。
+> This game is just like reality.
+
+## どうやら
+
+Means "it seems like", used with notions like ようだ or らしい.
+Used at the beginning of a phrase.
+
+> [!info] Examples
+> ==どうやら=={離婚|りこん}したようだ。
+> Apparently they got divorced.
+
+## げ
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V <strike>ます</strike></span></p>
+	<p><span class="box">V な<strike>い</strike></span></p>
+	<p><span class="box">V た<strike>い</strike></span></p>
+	<p><span class="box">い-Adj + <strike>い</strike></span></p>
+	<p><span class="box">な-Adj + <strike>な</strike></span></p>
+	<p><span class="box">N (limited)</span></p>
+</div>
+	<p class="right">+ げ</p>
+</div>
+
+Means that something or someone looks like, appears to. Cannot be used for yourself.
+It is used in a similar manner as そう, but only to describe the feelings of someone.
+
+⚠ Irregular form: いい => よい => よさげ
+
+> [!info] Examples
+> {新|あたら}しい{部長|ぶちょう}{不安|ふあん}==げ==です。
+> The new manager seems anxious.

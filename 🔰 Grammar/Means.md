@@ -66,6 +66,15 @@ Used with a noun.
 > 台風==により==、出かけられない。
 > Because of the typhoon, I cannot go out.
 
+## 次第で
+
+{次第|しだい}で means "depending on". The difference with によって is that the options are limited and quantifiable.
+Used with nouns.
+
+> [!info] Example
+> {試験|しけん}の{結果|けっか}==次第で=={来年|らいねん}の{学校|がっこう}が{変|か}わります。
+> Depending on the results I get on this test, my school next year will not be the same.
+
 ## とおりに
 
 <div class="usage">
@@ -86,3 +95,21 @@ Means "just as", "precisely". Can be written as 通り.
 > [!info] Example
 > {計画|けいかく}==どおり=={間|ま}に{合|あ}った。
 > We arrived on time as planned.
+
+## だけは
+
+<div class="usage">
+<div class="">
+	<p><span class="box">V (る)</span></p>
+</div>
+	<p class="r">+ だけは + </p>
+<div class="">
+	<p><span class="box"> V (た)</span></p>
+</div>
+</div>
+
+Means "to do all that one can".
+
+> [!info] Example
+> {試験|しけん}のため{勉強|べんきょう}する==だけは=={勉強|べんきょう}した。
+> I studied as much as I could for the exam.

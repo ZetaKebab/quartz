@@ -23,7 +23,7 @@ Used with nouns and verbs.
 	<p class="right">+ のに</p>
 </div>
 
-The first meaning is "although", "even tough".
+The first meaning is "although", "even tough". Cannot be an hypothesis, must be a confirmed fact. This, it works with past tense.
 
 > [!info] Example
 > 食べたばかり==なのに==、まだお{腹|なか}が{空|す}いた。
@@ -58,6 +58,22 @@ Used to introduce a new topic of conversation. Translates to "by the way".
 > ==ところで==、車の{修理|しゅうり}はどう。
 > By the way, how are the repairs for your car?
 
+## By the way: ちなみに
+
+Used to provide a new information on the current topic of conversation. Translates to "by the way".
+
+> [!info] Example
+> {駅|えき}に行くつもりです。==ちなみに==、駅の{前|まえ}には{新|あたら}しいレストランが{開|あけた}けたと言われた。
+> I'm going to the train station. By the way, I heard that a new restaurant has opened in front of the station.
+
+## Come to think of it: そう言えば
+
+Used to talk about a topic connected to the previous one, as something that is remembered.
+
+> [!info] Example
+> ==そういえば==、{今日|きょう}の{試験|しけん}はどうだったか。
+> Come to think of it, how was today's exam?
+
 ## Certainly: 確かに
 
 {確|たし}かに means "surely", "certainly".
@@ -65,3 +81,6 @@ Used to introduce a new topic of conversation. Translates to "by the way".
 > [!info] Example
 > この{歌|うた}は==確かに=={面白|おも|しろ}そうだ。
 > This song certainly sounds interesting.
+
+
+

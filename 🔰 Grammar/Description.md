@@ -16,6 +16,15 @@ Means "named", "called".
 > {台風|たいふう}が来る==という==ニュース。
 > A news that a typhoon is coming.
 
+## いわゆる
+
+Means "called".
+Used with nouns.
+
+> [!info] Examples
+> 彼は==いわゆる==オタクです。
+> He is what they call an otaku.
+
 ## と言ってもいい
 
 Means "you could say".

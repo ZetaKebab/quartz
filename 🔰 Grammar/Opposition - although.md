@@ -1,13 +1,5 @@
 # Opposition: although
 
-## に反して
-
-に{反|はん}して means "contrary to". Opposes the first noun to the rest of the sentence.
-
-> [!info] Example
-> {常識|じょうしき}==に反して==、彼は{勉強|べんきょう}しなかった。
-> Contrary to common sense, he did not study.
-
 ## 割に
 
 <div class="usage">
@@ -75,7 +67,36 @@ Means "although". Puts a nuance to the first statement describing that it is not
 > {彼|かれ}は{医者|いしゃ}==といっても==、あまり{頭|あたま}が{良|よ}くない。
 > He may be a doctor, but he is not very smart.
 
-## に対して
+## にも関わらず
 
-に{対|たい}して.
-See [[Towards#In contrast to]].
+にも{関|かか}わらず means "regardless", "despite".
+
+> [!info] Example
+> {危険|きけん}==にもかかわらず==、{彼|かれ}はまだそれをやった。
+> Despite the danger, he still did it.
+
+## ものの
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V</span></p>
+	<p><span class="box">い-Adj</span></p>
+	<p><span class="box">な-Adj + な</span></p>
+	<p><span class="box">N + である</span></p>
+</div>
+	<p class="right">+ ものの</p>
+</div>
+
+Means "although", "even though". It is formal. Similar to のに. The first part is positive, and the second one is negative.
+
+> [!info] Example
+> {今日|きょう}は{晴|は}れた==ものの==とても{寒|さむ}い。
+> It is sunny today, but very cold.
+
+## もっとも
+
+Means "although", "but". Connects two phrases. Used in literature.
+
+> [!info] Example
+> 帰国するつもりです。==もっとも==時間がある場合だけど。
+> I plan to return to my country. But only if I had the time...

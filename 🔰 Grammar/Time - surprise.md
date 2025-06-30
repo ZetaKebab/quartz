@@ -16,6 +16,14 @@ This means "suddenly", "unexpectedly", "unintentionally". Emphasis is on the lac
 > ==ふと=={通|とお}りに１０００円を{見|み}つけた。
 > I found 1000 yen on the street by chance.
 
+## いきなり
+
+Means "suddenly". Used before a phrase containing an action. It implies something that is more surprising than with 急に, puts more emotion into it.
+
+> [!info] Examples
+> ==いきなり=={雨|あめ}が{降|ふ}ってきた。
+> It suddenly started raining.
+
 ## たとたん
 
 Means "just as". Used for an action that happens just at the moment something else occurs. Can convey a nuance of something unexpected or surprising.

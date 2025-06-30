@@ -8,10 +8,28 @@
 > 日本==と言えば==、富士山です。
 > Speaking of Japan, Mount Fuji comes to mind.
 
+## というのは
+
+<div class="usage">
+<div class="">
+	<p><span class="box">phrase</span></p>
+</div>
+	<p class="r"> + というのは + </p>
+<div class="">
+	<p><span class="box">definition</span></p>
+</div>
+</div>
+
+Means "this means", "known as", "because".
+
+> [!info] Example
+> 「モバゲー」==というのは==モバイルゲームのことです。
+> "Mobage" stands for mobile game.
+
 ## において・における
 
 Means "in", "at", "regarding".
-Used with nouns. Is used in formal language.
+Used with nouns. It is used in formal language.
 
 > [!info] Example
 > {冬|ふゆ}==において=={雪|ゆき}が{降|ふ}る。
@@ -28,6 +46,38 @@ Used with nouns.
 > [!info] Example
 > {面接|めんせつ}==について==はいつがよろしいでしょうか。
 > Regarding the interview, when would be a good time?
+
+## をめぐって
+
+<div class="usage">
+<div class="">
+	<p><span class="box">N</span></p>
+</div>
+	<p class="r">+ をめぐって</p>
+</div>
+<div class="usage">
+<div class="">
+	<p><span class="box">N</span></p>
+</div>
+	<p class="r">+ をめぐる +</p>
+<div class="">
+	<p><span class="box">N</span></p>
+</div>
+</div>
+
+Means "concerning", "in regard to". It has the same meaning as について.
+
+> [!info] Example
+> 田中さん==をめぐって==、いろんな{噂|うわさ}がある。
+> There are many rumours concerning Tanaka-san.
+
+## というものだ
+
+Means "concerning", "something called". Used for explanations or morals.
+
+> [!info] Example
+> これはノートパソコン==というものだ==。
+> This is what we call a laptop.
 
 ## に関する・に関して
 
@@ -46,6 +96,16 @@ Means "in other words". Used after a first phrase for an alternative explanation
 > この{映画|えいが}は１２０分、==つまり==２時です。
 > This movie is 120 minutes, that is to say 2 hours.
 
+## ということは
+
+Means "that is to say", "in other words". Used when the answer needs thinking. つまり is more direct.
+
+> [!info] Example
+> A: あの{人|ひと}はわたしの{父|ちち}の{妹|いもうと}んです。
+> B: ==ということは==、あなたのおばさんですね。
+> A: She's my father's sister.
+> B: That means she's your aunt, right.
+
 ## すなわち
 
 Means "in other words". More formal than つまり.
@@ -53,6 +113,14 @@ Means "in other words". More formal than つまり.
 > [!info] Example
 > この{映画|えいが}は１２０分、==すなわち==２時です。
 > This movie is 120 minutes, that is to say 2 hours.
+
+## 要するに
+
+{要|よう}するに means "in summary". It is placed at the beginning of the sentence.
+
+> [!info] Example
+> ==要するに==、新しい仕事に就きました。
+> In summary, I got a new job.
 
 ## にかけて
 
@@ -75,15 +143,6 @@ Used with nouns.
 > フランスの文化はパン==をはじめ==、ワインも{人気|にんき}です。
 > French culture is popular not only for bread, but also for wine.
 
-## にとって
-
-Means "concerning", "regarding". Focuses on the standpoint of the preceding part.
-Used with nouns.
-
-> [!info] Example
-> 猫==にとって=={睡眠|すい|みん}は{大切|たいせつ}です。
-> Sleeping is important for cats.
-
 ## なんか・なんて
 
 Means "such as", "things like". It is used to give examples or to show emphasis.
@@ -101,3 +160,38 @@ Means "such as", "things like". It is used to give examples or to show emphasis.
 > [!info] Example
 > {虫|むし}が{好|すき}きです。==例えば=={蝉|せみ}です。
 > I like insect. For example, cicadas.
+
+## ものだ・ものではない
+
+<div class="usage">
+<div class="left">
+	<p><span class="box">V (る・ない)</span></p>
+	<p><span class="box">い-Adj </span></p>
+	<p><span class="box">な-Adj</span></p>
+</div>
+	<p class="right">+ ものだ・ものではない</p>
+</div>
+
+ものだ is used when something is common knowledge, custom, etc. That it is something that is natural or expected.
+ものではない is used for something that is not expected.
+
+> [!info] Example
+> {車|くるま}はいつも{高|たか}い==ものだ==。
+> Cars are always expensive.
+
+## というふうに
+
+Means "as if to say", "in such a way that", "like". Used to describe the manner in which something is done, give examples.
+
+> [!info] Examples
+> {彼|かれ}は{泥棒|どろぼう}==というふうに=={立|た}ち{去|さ}ってしました。
+> He departed like a thief.
+
+## ふうに
+
+Means "in the way of".
+Used after words like こんな, そんな, あんな, どんな and verbs.
+
+> [!info] Examples
+> こんな==ふうに==はだめ！
+> Do not do it like this!

@@ -44,7 +44,7 @@ Means "until" or "to".
 These two particles are frequently used together. It means "from X to Y".
 
 > [!info] Example
-> {朝|あさ}に６時==から==７時==まで==電車で{通|かよ}うっています。
+> {朝|あさ}に６時==から==７時==まで=={電車|でんしゃ}で{通|かよ}うっています。
 > I commute by train from 6am to 7am.
 
 ## っけ
@@ -73,7 +73,7 @@ Used with nouns.
 ⚠ Replaces the を and が particle. It is, in a certain way, a stronger way than が to highlight information.
 
 > [!info] Example
-> {今年|ことし}==こそ=={日本|にほん}を{住|す}む。
+> {今年|ことし}==こそ=={日本|にほん}に{住|す}む。
 > This year, for sure I'll live in Japan.
 
 ## さえ
@@ -95,6 +95,24 @@ Means "even", "not even" (with negative verbs).
 > Even for my teacher, this composition is difficult to play.
 
 ⚠ With conditional verbs, it means "only". See [[State#さえ～ば]].
+
+## にて
+
+This particle is a formal version of [[🔰 Particles (1)#で]], and is used the same way.
+
+> [!info] Example
+> {電話|でんわ}==にて=={連絡|れんらく}ください。
+> Please contact us by phone.
+
+## より
+
+It is a more formal form of から ([[#From, since]]).
+
+> [!info] Example
+> 明日==より=={毎日|まいにち}{運動|うんどう}するつもりです。
+> Starting tomorrow, I'm going to exercise every day.
+
+Do not confuse with [[Comparison#より]].
 
 ## Sentence ending
 

@@ -49,7 +49,3 @@ Means "but", "however".
 > [!info] Example
 > {手伝|てつだ}いたい==んですけど=={暇|ひま}はない。
 > I'd like to help but I don't have time.
-
-## Summing up
-
-🛠 Todo.
