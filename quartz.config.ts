@@ -70,7 +70,7 @@ const config: QuartzConfig = {
       }),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -102,11 +102,11 @@ const config: QuartzConfig = {
           const f2Title = f2.frontmatter?.title?.toLowerCase() ?? ""
           return naturalCompare(f1Title, f2Title)
         },
-  }),
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),

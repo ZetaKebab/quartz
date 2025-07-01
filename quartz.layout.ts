@@ -6,15 +6,22 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Footer({
-      links: {
-        "Théo Marchal": "https://theo.marchal.dev"
-      }
-    })
+    Component.DesktopOnly(
+      Component.Footer({
+        links: {
+          "Théo Marchal": "https://theo.marchal.dev"
+        }
+      })
+    )
   ],
-  footer: Component.Flex({
-    components:[]
-  }),
+  footer: 
+    Component.MobileOnly(
+      Component.Footer({
+        links: {
+          "Théo Marchal": "https://theo.marchal.dev"
+        }
+      })
+    ),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -29,22 +36,21 @@ export const defaultContentPageLayout: PageLayout = {
 
   left: [
     Component.PageTitle(),
-
-    Component.MobileOnly(Component.Spacer()),
-    Component.MobileOnly(Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ]
-    })),
-
     Component.Explorer( { folderDefaultState: "open" } ),
   ],
 
   right: [
+
+    Component.MobileOnly(Component.Flex({
+      components: [
+        { Component: Component.Darkmode() },
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+      ]
+    })),
+
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
     Component.TableOfContents(),
@@ -53,8 +59,8 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-
-    beforeBody: [
+  
+  beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
@@ -63,22 +69,21 @@ export const defaultListPageLayout: PageLayout = {
 
   left: [
     Component.PageTitle(),
-
-    Component.MobileOnly(Component.Spacer()),
-    Component.MobileOnly(Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ]
-    })),
-
     Component.Explorer( { folderDefaultState: "open" } ),
   ],
 
   right: [
+
+    Component.MobileOnly(Component.Flex({
+      components: [
+        { Component: Component.Darkmode() },
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+      ]
+    })),
+
     Component.DesktopOnly(Component.Darkmode()),
     Component.DesktopOnly(Component.Search()),
     Component.TableOfContents(),

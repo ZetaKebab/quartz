@@ -157,6 +157,10 @@ table {
                 margin: 1rem auto;
             }
 
+            .page-footer {
+                margin-bottom: 0.5rem;
+            }
+
             footer {
                 margin-bottom: 1rem;
 
@@ -188,6 +192,13 @@ table {
                     margin-left: unset;
                     margin-right: unset;
                 }
+                @media all and ($medDesktop) {
+                    width: 750px;
+                    min-width: unset;
+                    max-width: unset;
+                    margin-left: unset;
+                    margin-right: unset;
+                }
                 @media all and ($maxDesktop) {
                     width: 950px;
                     min-width: unset;
@@ -202,6 +213,10 @@ table {
                 @media all and ($desktop) {
                     padding-left: 1.5rem;
                     padding-right: 1.5rem;
+                }
+                @media all and ($desktop) {
+                    padding-left: 1.8rem;
+                    padding-right: 1.8rem;
                 }
                 @media all and ($maxDesktop) {
                     padding-left: 3.5rem;
@@ -311,6 +326,7 @@ table {
                 flex-direction: row;
                 flex-wrap: wrap;
                 padding-top: 1rem;
+                height: fit-content;
 
                 @media all and ($desktop)
                 {
@@ -342,7 +358,7 @@ table {
                     height: fit-content;
                     min-width: fit-content;
                     max-width: 14rem;
-                    flex-grow: .3;
+                    flex-grow: 1;
                     width: 10rem;
                 }
 
@@ -362,7 +378,11 @@ table {
     @media all and ($mobile) {
 
         h1 {
-            margin-top: 0;
+            margin-top: 1rem;
+        }
+
+        .center hr {
+            margin-bottom: 1rem;
         }
 
         .darkmode {
@@ -370,9 +390,8 @@ table {
         }
 
         footer {
-            margin-bottom: 0;
+            margin-bottom: 0.5em;
         }
-
     }
 }
 
