@@ -1,0 +1,7 @@
+services:
+
+  web:
+    image: quartz-jpg
+    container_name: quartz-jpg
+    ports:
+    - "8080:80"

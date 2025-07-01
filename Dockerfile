@@ -15,9 +15,15 @@ COPY package.json .
 COPY package-lock.json* .
 RUN npm ci
 
-FROM node:22-slim
+FROM node:22-slim AS quartz
 WORKDIR /usr/src/app
 COPY --from=builder /usr/src/app/ /usr/src/app/
 COPY . .
 COPY --from=convert /usr/src/app/ /usr/src/app/content/
-CMD ["npx", "quartz", "build", "--serve"]
+RUN npx quartz build
+
+FROM nginx:latest
+WORKDIR /usr/share/nginx/html
+COPY --from=quartz /usr/src/app/public/ /usr/share/nginx/html/
+WORKDIR /etc/nginx/
+COPY custom/nginx/default.conf /etc/nginx/conf.d/
