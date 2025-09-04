@@ -1,4 +1,6 @@
+// import { FlexSearch, Charset } from "flexsearch"
 import FlexSearch from "flexsearch"
+import Charset from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
@@ -15,10 +17,9 @@ interface Item {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
-const encoder = (str: string) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/)
 let index = new FlexSearch.Document<Item>({
-  charset: "latin:extra",
-  encode: encoder,
+  charset: "cjk:extra",
+  encode: Charset.CJK,
   document: {
     id: "id",
     tag: "tags",
