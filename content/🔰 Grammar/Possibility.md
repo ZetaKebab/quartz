@@ -131,7 +131,7 @@ Means "unless you do something".
 > {運転|うんてん}{免許|めんきょ}を{持|も}った==ないことには=={運転|うんてん}できない。
 > You can't drive unless you have a driving licence.
 
-## にしろ~にしろ
+## にしろ～にしろ
 
 <div class="usage">
 <div class="">
@@ -174,7 +174,7 @@ Means "unless you do something".
 	<p class="r">+ にしろ</p>
 </div>
 
-Means "whether... or". Can be used as にせろ~にせろ or にしても~にしても, which is more formal.
+Means "whether... or". Can be used as にせろ～にせろ or にしても～にしても, which is more formal.
 
 > [!info] Example
 > {動物|どうぶつ}==にしろ=={植物|しょくぶつ}==にしろ==、その{物質|ぶっしつ}は{危険|きけん}です。

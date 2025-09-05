@@ -145,7 +145,7 @@ It can be used to emphasize something when used at the end of a sentence.
 > 言ってない==し==！
 > I never said that!
 
-### やら~やら
+### やら～やら
 
 <div class="usage">
 <div class="left">

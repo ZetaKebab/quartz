@@ -1,8 +1,8 @@
 # Misc.
 
-## ~まい
+## ～まい
 
-~まい is the opposition of the volitional form (よう). It means "will not".
+～まい is the opposition of the volitional form (よう). It means "will not".
 
 Careful of two exceptions:
 * する => すまい
@@ -12,7 +12,7 @@ Careful of two exceptions:
 > この{川|かわ}は{危|あぶ}ないようだ。ここで{泳|およぐ}ぐ==まい==。
 > This river seems dangerous. I won't swim here.
 
-## ~得る・~得ない
+## ～得る・～得ない
 
 {得|え}る means "able to", "possible". Can be conjugated: えない, えた, えなかった.
 Made by:

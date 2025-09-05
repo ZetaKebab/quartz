@@ -22,7 +22,7 @@
 </div>
 </div>
 
-{決|けっ}して~ない means "never". Used with negative verbs.
+{決|けっ}して～ない means "never". Used with negative verbs.
 
 > [!info] Examples
 > 私は==決して=={夢|ゆめ}を{覚|おぼ}えません。

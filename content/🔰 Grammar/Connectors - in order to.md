@@ -3,7 +3,7 @@
 ## のに
 
 Means "to do", "in order to".
-See [[Connectors#のに#In order to]].
+See [[Connectors#In order to]].
 
 ## ために
 

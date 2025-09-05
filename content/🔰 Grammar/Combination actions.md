@@ -11,7 +11,7 @@ Those rules combine a verb and an adjective to make a new meaning.
 
 ## Difficulty
 
-### ~やすい: easy
+### ～やすい: easy
 
 Means: 
 * easy to do
@@ -25,7 +25,7 @@ Means:
 > {泣|な}き==やすい==。
 > Prone to crying.
 
-### ~にくい・~づらい: difficult
+### ～にくい・～づらい: difficult
 
 Means that something is difficult to do.
 While にくい is the broader form, づらい is used in a more subjective manner, for actions that are intentional.
@@ -36,14 +36,14 @@ While にくい is the broader form, づらい is used in a more subjective mann
 
 ### ～がたい: very difficult
 
-~がたい means that something is very difficult to do.
-It is more extreme than ~にくい.
+～がたい means that something is very difficult to do.
+It is more extreme than ～にくい.
 
 > [!info] Example
 > それは{信|しん}じ==がたい==な。
 > That's hard to believe...
 
-## ~始める
+## ～始める
 
 ～{始|はじ}める means that something starts or has started. Expresses intentionality.
 
@@ -51,7 +51,7 @@ It is more extreme than ~にくい.
 > {飲|の}み==始める==。
 > To start to drink.
 
-## ~出す
+## ～出す
 
 ～{出|だ}す means that something suddenly started. Has the nuance of being unintentional, or cannot be avoided.
 
@@ -59,7 +59,7 @@ It is more extreme than ~にくい.
 > 雨が降り==出した==。
 > It suddenly started raining.
 
-## ~続く
+## ～続く
 
 ～{続|つづ}く means that something continues.
 
@@ -67,7 +67,7 @@ It is more extreme than ~にくい.
 > {飲|の}み==続ける==。
 > To continue to drink.
 
-## ~終わる
+## ～終わる
 
 ～{終|お}わる means that something ends.
 
@@ -95,8 +95,8 @@ This can be used both as:
 
 ## ～切る・～切れる・～切れない
 
-~{切|き}る means "to do completely" and ~切れる means "able to do completely".
-The negative form ~切れない means "unable to do", "too much to complete".
+～{切|き}る means "to do completely" and ～切れる means "able to do completely".
+The negative form ～切れない means "unable to do", "too much to complete".
 It focuses on the end of the action rather than the process.
 
 > [!info] Example
@@ -108,7 +108,7 @@ It focuses on the end of the action rather than the process.
 
 ## ～通す
 
-~{通|とお}す means "to do something until the end", "continually" or "through". It focuses on the process of the action, rather than its ending.
+～{通|とお}す means "to do something until the end", "continually" or "through". It focuses on the process of the action, rather than its ending.
 
 > [!info] Example
 > マラソンの{全部|ぜんぶ}を{走|はし}り==通した==。
@@ -116,7 +116,7 @@ It focuses on the end of the action rather than the process.
 
 ## ～直す
 
-~{直|なお}す means to do something again.
+～{直|なお}す means to do something again.
 
 > [!info] Example
 > {今年|ことし}をやり==直す==てほしい。
@@ -124,55 +124,55 @@ It focuses on the end of the action rather than the process.
 
 ## ～っぱなし
 
-~っぱなし means leaving something as it is.
+～っぱなし means leaving something as it is.
 
 > [!info] Example
 > この１３時間{飛行|ひこう}で{座|すわ}り==っぱなし==でした。
 > I sat the entire time on this 13 hours flight.
 
-## ~かねる
+## ～かねる
 
-~かねる means "unable to do", due to an external circumstance. It is polite.
+～かねる means "unable to do", due to an external circumstance. It is polite.
 
 > [!info] Example
 > ごめんなさい、それをでき==かねます==。
 > I'm sorry, I cannot do that.
 
-## ~っこない
+## ～っこない
 
-~っこない means that something is not possible.
+～っこない means that something is not possible.
 
 > [!info] Example
 > {全然|ぜんぜん}{勉強|べんきょう}しなかった。。。{合格|ごうかく}し==っこない==よ。
 > I did not study at all... There's no way I'll pass.
 
-## ~抜く
+## ～抜く
 
-~{抜|ぬ}く means to do something to the end, or completely. The nuance is that someone tried hard and has made an effort to achieve this result.
+～{抜|ぬ}く means to do something to the end, or completely. The nuance is that someone tried hard and has made an effort to achieve this result.
 
 > [!info] Example
 > それは{毎日|まいにち}やり==抜く=={無理|むり}ですよ。
 > You cannot do this every day.
 
-## ~給え
+## ～給え
 
-~{給|たま}え is used for a light order. It is used by someone of higher rank to someone of lower rank.
+～{給|たま}え is used for a light order. It is used by someone of higher rank to someone of lower rank.
 
 > [!info] Example
 > ここに{座|すわ}り==給え==。
 > Seat here.
 
-## ~つつ(も)
+## ～つつ(も)
 
-~つつ means that something happens at the same time as another action. Adding も adds the meaning of "even": "even while doing".
+～つつ means that something happens at the same time as another action. Adding も adds the meaning of "even": "even while doing".
 
 > [!info] Example
 > 食べ==つつ==、飲みましょう。
 > While eating, let's drink.
 
-## ~つつある
+## ～つつある
 
-~つつある means that something is in an ongoing process or action, in a similar manner as てくる.
+～つつある means that something is in an ongoing process or action, in a similar manner as てくる.
 
 > [!info] Example
 > {雪|ゆき}が{降|ふ}り==つつある==。
@@ -180,7 +180,7 @@ It focuses on the end of the action rather than the process.
 
 ## ～込む
 
-~{込|こ}む has multiple meanings depending on the verb. Sometimes it is idiomatic and so it cannot exactly be guessed. However, there are some broad categories.
+～{込|こ}む has multiple meanings depending on the verb. Sometimes it is idiomatic and so it cannot exactly be guessed. However, there are some broad categories.
 
 ⚠ Depending on the context, verbs can fall into multiple categories!
 

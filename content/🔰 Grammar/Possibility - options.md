@@ -27,7 +27,7 @@ Used with nouns.
 > ジュース==か何か=={飲|の}もうか。
 > Shall we drink something like a juice?
 
-## ようか~まいか
+## ようか～まいか
 
 <div class="usage">
 <div class="">

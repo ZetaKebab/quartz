@@ -74,8 +74,8 @@ It can also mean that the will to do is not present, especially with する.
 
 ### ようがない・ようもない
 
-~{様|よう}がない means that there is no way, "impossible".
-Works by removing ~ます from a verb and adding ようがない・ようもない.
+～{様|よう}がない means that there is no way, "impossible".
+Works by removing ～ます from a verb and adding ようがない・ようもない.
 The nuance it that it is impossible in general. With する, it can mean the same as わけがない, i.e. "I don't know how to".
 
 > [!info] Example 

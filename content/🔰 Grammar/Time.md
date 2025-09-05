@@ -130,13 +130,13 @@ This indicates a time limit for the action, similar to "by".
 <div class="">
 	<p><span class="box">N (time)</span></p>
 </div>
-	<p class="r">+ ぶりに~する</p>
+	<p class="r">+ ぶりに～する</p>
 </div>
 <div class="usage">
 <div class="">
 	<p><span class="box">N (time)</span></p>
 </div>
-	<p class="r">+ ぶり + の</p>
+	<p class="r">+ ぶり + の + </p>
 <div class="">
 	<p><span class="box">N</span></p>
 </div>

@@ -95,7 +95,7 @@ Used with a verb in the dictionary form.
 
 ### べきだ
 
-Means "should do", "must do". Compared to the [[Obligation - なければ・ないと]] forms and 必ず, it has a nuance of being less universally logical. It is defined by the speaker's own logic.
+Means "should do", "must do". Compared to the [[Obligation - must (not)]] forms and 必ず, it has a nuance of being less universally logical. It is defined by the speaker's own logic.
 Used with verbs.
 する can be used as するべき or すべき.
 

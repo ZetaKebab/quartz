@@ -16,7 +16,7 @@ This is the basic way to say "but".
 > コンビニに行きました。==でも==、何も買わなかった。
 > I went to the convenience store. But I didn't buy anything.
 
-⚠ Do not confuse with [[TeF (4) - even if#Even if ても・でも]].
+⚠ Do not confuse with [[TeF (4) - even if#Even if ても・でも|Even if: ても・でも]].
 
 ## しかし
 
