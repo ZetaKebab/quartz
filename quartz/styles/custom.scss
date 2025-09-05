@@ -1,6 +1,47 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+a {
+    color: #875a9f;
+}
+
+.explorer-content ul li>a {
+    color: #875a9f;
+    opacity: 1;
+}
+
+a:hover,
+.explorer-content ul li>a.active,
+.explorer-content ul li>a:hover, 
+.folder-container div>a:hover {
+    color: #9e85bc;
+}
+
+.folder-container div>a {
+    color: #875a9f;
+}
+
+:root[saved-theme="dark"] a {
+    color: #b381cc;
+}
+
+:root[saved-theme="dark"] a:hover {
+    color: #9e85bc;
+}
+
+a.internal {
+    background-color: unset;
+}
+
+// Softer dark background
+:root[saved-theme="dark"] body {
+    background-color: color-mix(in srgb, var(--lightgray)60%, var(--light));
+}
+
+:root[saved-theme="dark"] .search>.search-button {
+    background-color: #5E5F60;
+}
+
 // Callouts design
 .text-highlight {
     background-color: #ddcee5;
