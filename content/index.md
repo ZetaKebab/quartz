@@ -1,3 +1,8 @@
+---
+
+title: Japanese Grammar
+
+---
 # Japanese Grammar
 
 Welcome to my Japanese Grammar project!
@@ -13,10 +18,10 @@ Of course, since I'm _learning_ the language, I need to get inspired from differ
 * [Bunpro](https://bunpro.jp/grammar_points)
 * [JLPT Sensei](https://jlptsensei.com/#jlpt-grammar-lists)
 * [Maggie Sensei](https://maggiesensei.com/)
-* [Try! Series of books](https://ask-books.com/tag/try/)
+* [Try! Series of books](https://ask-books.com/jlpt-try-prep/)
 * [A Handbook of Japanese Grammar](https://www.9640.jp/nihongo/en/detail/?678)
 * [Hedgehog Japanese](https://hedgehog-japanese.com/category/grammar/)
-* [Wasabi](https://www.wasabi-jpn.com/category/japanese-grammar/)
+* [Wasabi](https://wasabi-jpn.com/magazine/japanese-grammar/wasabis-online-japanese-grammar-reference/?lang=en)
 * [Japanese StackExchange](https://japanese.stackexchange.com/)
 * [Tofugu](https://www.tofugu.com)
 * [Imabi](https://imabi.org/table-of-contents-%e7%9b%ae%e6%ac%a1/)
