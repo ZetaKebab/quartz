@@ -21,7 +21,7 @@ It is more objective than から: it expresses a situation that exists, and that
 
 ## から
 
-See [[🔰 Particles (2)#から#Because]].
+See [[🔰 Particles (2)#Because]].
 It is more subjective than ので: it expresses more personal needs/actions/opinions.
 
 ## ことから
