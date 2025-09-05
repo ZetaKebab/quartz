@@ -21,7 +21,7 @@ See [[Considering - for - as#にしても]].
 	<p class="right">+ って</p>
 </div>
 
-Means "even if", "even though". It has the same meaning as [[#て-form even if]].
+Means "even if", "even though". It has the same meaning as [[#て-form even if|て-form: even if]].
 
 > [!info] Example
 > {今|いま}で行==ったって==、{間|ま}に{合|あ}わない。
@@ -38,7 +38,7 @@ Means "but still", "even so", "anyway".
 ## のに
 
 Means "although", "even tough". Cannot be an hypothesis, must be a confirmed fact. This, it works with past tense.
-See [[Connectors#のに#Even tough]].
+See [[Connectors#Even tough]].
 
 ## くせに・くせして
 

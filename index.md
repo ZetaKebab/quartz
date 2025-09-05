@@ -4,7 +4,7 @@ Welcome to my Japanese Grammar project!
 
 ## Goal
 
-The goal of this website is to be a synthesis of useful resources for my Japanese learning adventure. I want to have grammar points next to each other, independently of any "difficulty level", set up in a logical and consistent form. I don't want to have to open 5 pages to compare information, and I don't want a deep dive into a notion. The goal is to be a reminder of the things I learn, rather than a way to learn. I want a few examples to grasp it, but I do not want to have ten of the same kind. And nothing quite fits for me!
+The goal of this website is to be a synthesis of useful resources for my Japanese learning adventure. I want to have grammar points next to each other, independently of any "difficulty level", set up in a logical and consistent form. I don't want to have to open five pages to compare information, and I don't want a deep dive into a notion. The goal is to be a reminder of the things I learn, rather than a way to learn. I want a few examples to grasp it, but I do not want to have ten of the same kind. And nothing quite fits for me!
 
 ## Sources
 

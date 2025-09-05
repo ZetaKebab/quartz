@@ -41,7 +41,7 @@ It is used as a condition: "if", "when", "whenever". Generally expresses a negat
 > {授業|じゅぎょう}に{来|こ}なく==ては=={卒業|そつぎょう}できない。
 > If you don't come to class, you will not be able to graduate.
 
-## ては~ては
+## ては～ては
 
 Same structure as [[TeF (5) - Misc#ては・では]], this time only used with verbs. Means the repetition of an action or a phenomenon.
 The verbs can be in the same order or not in the two part.

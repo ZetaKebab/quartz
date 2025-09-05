@@ -65,7 +65,7 @@ Means "slightly", "only", "a little". Used at the beginning of a phrase to indic
 </div>
 </div>
 
-Means "no matter how much". Also used as いくら~ても.
+Means "no matter how much". Also used as いくら～ても.
 
 > [!info] Example
 > ==どんなに=={練習|れんしゅう}し==ても==、マラソンを{走|はし}れない。
@@ -190,7 +190,7 @@ Means "as much as possible". なるべく is a bit softer than できるだけ.
 </div>
 
 Means "so much... that".
-Nominalized adjectives can be used as nouns. See [[Transformation#~さ adjective as noun]] and [[Transformation#~み adjective as noun]].
+Nominalized adjectives can be used as nouns. See [[Transformation#～さ adjective as noun]] and [[Transformation#～み adjective as noun]].
 
 > [!info] Example
 > おいしさの==あまり==、このレストラン{毎日|まいにち}行きたい。
@@ -221,7 +221,7 @@ Means "so much... that". A version of あまり that can also be used with adjec
 
 ## Not at all
 
-### ちっとも~ない
+### ちっとも～ない
 
 Means "not at all". Has a nuance of perhaps happening once or twice. It is casual.
 Used with a verb in the negative (ない) form.
@@ -230,7 +230,7 @@ Used with a verb in the negative (ない) form.
 > ==ちっとも=={学校|がっこう}を{休|やす}まない。
 > I never miss school.
 
-### 少しも~ない
+### 少しも～ない
 
 <div class="usage">
 	<p class="iright">少しも + </p>
@@ -242,22 +242,22 @@ Used with a verb in the negative (ない) form.
 </div>
 </div>
 
-{少|すこ}しも~ない means "not at all". Has a nuance of perhaps happening once or twice. Mostly used in writing.
+{少|すこ}しも～ない means "not at all". Has a nuance of perhaps happening once or twice. Mostly used in writing.
 
 > [!info] Example
 > そのアパートは==少しも==大きくなかった。
 > That appartment was really not big.
 
-### 全く~ない
+### 全く～ない
 
-{全|まった}く~ない means "not at all". Has a nuance of absolutely never happening.
+{全|まった}く～ない means "not at all". Has a nuance of absolutely never happening.
 Used with a verb in the negative (ない) form.
 
 > [!info] Example
 > ==全く=={信|しん}じられない。
 > That is absolutely unbelievable.
 
-### として~ない
+### として～ない
 
 Means "not at all". Has a nuance of absolutely never happening.
 Insists more on the duration: "not even".

@@ -21,7 +21,7 @@ Used with verbs and nouns.
 
 ## としても
 
-Means "assuming", "even if". It has the same meaning as [[TeF (4) - even if#Even if ても・でも]], but bolder.
+Means "assuming", "even if". It has the same meaning as [[TeF (4) - even if#Even if ても・でも|Even if: ても・でも]], but bolder.
 
 > [!info] Example
 > 私==としても==出来ます。

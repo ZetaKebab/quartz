@@ -19,7 +19,7 @@ Used with a verb in the past (た) form.
 > スーパーに{行|い}った==かと思ったら==、{雪|ゆき}が{降|ふ}り{出|だ}した。
 > Just as I went to the supermarket, it started snowing.
 
-## か~ないかのうちに
+## か～ないかのうちに
 
 <div class="usage">
 <div class="">
@@ -32,7 +32,7 @@ Used with a verb in the past (た) form.
 	<p class="r">+ か + のちに</p>
 </div>
 
-か~ないかのうちに means "right after", "as soon as". It is formal.
+か～ないかのうちに means "right after", "as soon as". It is formal.
 
 > [!info] Examples
 > {彼|かれ}は{電車|でんしゃ}が{駅|えき}に{着|つ}く==か=={着|つ}かない==かのうちに=={走|はし}り{始|はじ}めた。

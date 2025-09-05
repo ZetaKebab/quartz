@@ -2,7 +2,7 @@
 
 ## つい
 
-Means "accidentally", "unintentionally". Can be combined with [[TeF (2) - manner of doing## てしまう・ちゃう・じゃう|てしまう]].
+Means "accidentally", "unintentionally". Can be combined with [[TeF (2) - manner of doing#てしまう・ちゃう・じゃう|てしまう]].
 
 > [!info] Example
 > {歩|ある}きながら{携帯|けいたい}を見ていました、==つい=={誰|だれ}かとぶつきました。

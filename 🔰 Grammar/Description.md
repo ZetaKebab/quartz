@@ -54,7 +54,7 @@ Means "made from".
 
 ## のが「好き・上手・下手」
 
-のが({好|すき}き・{上手|じょうず}・{下手|へた}) means "to (like/be good/be bad)" at an action.
+のが「{好|すき}き・{上手|じょうず}・{下手|へた}」 means "to like/be good/be bad" at an action.
 Used with a verb in dictionary form.
 
 > [!info] Example
@@ -98,7 +98,7 @@ Means that something is "full of" or "covered with" something undesirable.
 	<p class="right">+ で有名</p>
 </div>
 
-は~で{有名|ゆうめい} means "famous for". Used to describe why people, places or things are famous.
+は～で{有名|ゆうめい} means "famous for". Used to describe why people, places or things are famous.
 
 > [!info] Example
 > パリ==は==エッフェル{塔|とう}==で有名==です。

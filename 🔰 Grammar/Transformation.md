@@ -9,7 +9,7 @@ V+こと => 食べること. The verbs are never conjugated.
 > {音楽|おん|がく}を聞く==こと==が好きです。
 > I like to listen to music (listening to music is something I like).
 
-## ~さ: adjective as noun
+## ～さ: adjective as noun
 
 <div class="usage">
 <div class="left">
@@ -28,7 +28,7 @@ This allows to transform an adjective into a noun (adjective nominalizer). Used 
 > やさし==さ==。
 > Kindness.
 
-## ~み: adjective as noun
+## ～み: adjective as noun
 
 <div class="usage">
 <div class="left">
