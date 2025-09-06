@@ -417,12 +417,12 @@ table {
 // Softer dark background for mobile
 @media all and ($mobile)
 {
-    .page > #quartz-body .sidebar.left:has(.explorer)
+    :root[saved-theme="dark"] .page > #quartz-body .sidebar.left:has(.explorer)
     {
-        background-color: unset;
+        background-color: color-mix(in srgb, var(--lightgray)60%, var(--light));
     }
 
-    .explorer:not(.collapsed)>.explorer-content {
+    :root[saved-theme="dark"] .explorer:not(.collapsed)>.explorer-content {
         background-color: color-mix(in srgb, var(--lightgray)60%, var(--light));
     }
 }
